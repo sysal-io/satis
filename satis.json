@@ -1,0 +1,59 @@
+{
+  "name": "sysal/satis",
+  "homepage": "https://satis.sysal.com.br",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/genesis.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/slush-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/studio-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/monochrome-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/enterprise-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/sixteen-nine-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/digital-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/advanced-custom-fields-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/woocommerce-subscriptions.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/wpdatatables.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/sysal-core.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/lattem-plugin.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:sysal/aservascuram-plugin.git"
+    }
+  ],
+  "require-all": true
+}
