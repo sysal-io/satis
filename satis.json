@@ -44,7 +44,7 @@
     },
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:sysal/sysal-core.git"
+      "url": "git@github.com:sysalwebapps/sysal-core.git"
     },
     {
       "type": "vcs",
