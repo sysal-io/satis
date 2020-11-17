@@ -21,11 +21,11 @@ namespace Composer\XdebugHandler;
 class Process
 {
     /**
-     * Returns the process arguments, appending a color option if required
+     * Returns an array of parameters, including a color option if required
      *
      * A color option is needed because child process output is piped.
      *
-     * @param array $args Command line arguments
+     * @param array $args The script parameters
      * @param string $colorOption The long option to force color output
      *
      * @return array
@@ -39,8 +39,8 @@ class Process
         }
 
         if (isset($matches[2])) {
-            // Handle --color(s)= options. Note args[0] is the script name
-            if ($index = array_search($matches[2].'auto', $args)) {
+            // Handle --color(s)= options
+            if (false !== ($index = array_search($matches[2].'auto', $args))) {
                 $args[$index] = $colorOption;
                 return $args;
             } elseif (preg_grep('/^'.$matches[2].'/', $args)) {
@@ -50,10 +50,20 @@ class Process
             return $args;
         }
 
-        $args[] = $colorOption;
+        // Check for NO_COLOR variable (https://no-color.org/)
+        if (false !== getenv('NO_COLOR')) {
+            return $args;
+        }
+
+        if (false !== ($index = array_search('--', $args))) {
+            // Position option before double-dash delimiter
+            array_splice($args, $index, 0, $colorOption);
+        } else {
+            $args[] = $colorOption;
+        }
+
         return $args;
     }
-
 
     /**
      * Escapes a string to be used as a shell argument.
@@ -70,10 +80,11 @@ class Process
     public static function escape($arg, $meta = true, $module = false)
     {
         if (!defined('PHP_WINDOWS_VERSION_BUILD')) {
-            return escapeshellarg($arg);
+            return "'".str_replace("'", "'\\''", $arg)."'";
         }
 
         $quote = strpbrk($arg, " \t") !== false || $arg === '';
+
         $arg = preg_replace('/(\\\\*)"/', '$1$1\\"', $arg, -1, $dquotes);
 
         if ($meta) {
@@ -87,8 +98,7 @@ class Process
         }
 
         if ($quote) {
-            $arg = preg_replace('/(\\\\*)$/', '$1$1', $arg);
-            $arg = '"'.$arg.'"';
+            $arg = '"'.preg_replace('/(\\\\*)$/', '$1$1', $arg).'"';
         }
 
         if ($meta) {
@@ -110,6 +120,10 @@ class Process
      */
     public static function supportsColor($output)
     {
+        if ('Hyper' === getenv('TERM_PROGRAM')) {
+            return true;
+        }
+
         if (defined('PHP_WINDOWS_VERSION_BUILD')) {
             return (function_exists('sapi_windows_vt100_support')
                 && sapi_windows_vt100_support($output))
@@ -120,7 +134,9 @@ class Process
 
         if (function_exists('stream_isatty')) {
             return stream_isatty($output);
-        } elseif (function_exists('posix_isatty')) {
+        }
+
+        if (function_exists('posix_isatty')) {
             return posix_isatty($output);
         }
 
@@ -130,7 +146,7 @@ class Process
     }
 
     /**
-     * Makes putenv environment changes available in $_SERVER
+     * Makes putenv environment changes available in $_SERVER and $_ENV
      *
      * @param string $name
      * @param string|false $value A false value unsets the variable
@@ -150,6 +166,16 @@ class Process
         } else {
             $_SERVER[$name] = $value;
         }
+
+        // Update $_ENV if it is being used
+        if (false !== stripos((string) ini_get('variables_order'), 'E')) {
+            if ($unset) {
+                unset($_ENV[$name]);
+            } else {
+                $_ENV[$name] = $value;
+            }
+        }
+
         return true;
     }
 }

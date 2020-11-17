@@ -1,59 +1,55 @@
 {
-  "name": "sysal/satis",
-  "homepage": "https://satis.sysal.com.br",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/genesis.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/slush-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/studio-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/monochrome-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/enterprise-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/sixteen-nine-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/digital-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/advanced-custom-fields-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/woocommerce-subscriptions.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/wpdatatables.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@github.com:sysalwebapps/sysal-core.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/lattem-plugin.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:sysal/aservascuram-plugin.git"
-    }
-  ],
-  "require-all": true
+	"name": "sysal/satis",
+	"homepage": "https://satis.sysal.com.br",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/genesis.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/slush-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/studio-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/monochrome-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/enterprise-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/sixteen-nine-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/digital-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/ambiance-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/woocommerce-subscriptions.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/wpdatatables.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/sysal-core.git"
+		}
+	],
+	"require-all": true
 }
