@@ -36,6 +36,10 @@
 		},
 		{
 			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/academy-pro.git"
+		},
+		{
+			"type": "vcs",
 			"url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git"
 		},
 		{
