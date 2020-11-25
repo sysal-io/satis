@@ -1,10 +1,40 @@
 {
     "packages": {
-        "sysal/advanced-custom-fields-pro": {
+        "sysal/academy-pro": {
             "dev-main": {
-                "name": "sysal/advanced-custom-fields-pro",
+                "name": "sysal/academy-pro",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysalwebapps/academy-pro.git",
+                    "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sysalwebapps/academy-pro/zipball/13b374c41afa7c1081b76a4e310a7f41b8747978",
+                    "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978",
+                    "shasum": ""
+                },
+                "time": "2020-11-25T17:49:51+00:00",
+                "type": "wordpress-theme",
+                "authors": [
+                    {
+                        "name": "Maria C. Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysalwebapps/academy-pro/tree/main",
+                    "issues": "https://github.com/sysalwebapps/academy-pro/issues"
+                }
+            }
+        },
+        "sysal/advanced-custom-fields-pro": {
+            "5.9.3": {
+                "name": "sysal/advanced-custom-fields-pro",
+                "version": "5.9.3",
+                "version_normalized": "5.9.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git",
@@ -17,6 +47,34 @@
                     "shasum": ""
                 },
                 "time": "2020-10-03T21:34:03+00:00",
+                "type": "wordpress-plugin",
+                "authors": [
+                    {
+                        "name": "Maria Cristina Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysalwebapps/advanced-custom-fields-pro/tree/5.9.3",
+                    "issues": "https://github.com/sysalwebapps/advanced-custom-fields-pro/issues"
+                }
+            },
+            "dev-main": {
+                "name": "sysal/advanced-custom-fields-pro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git",
+                    "reference": "4be9d6f3953846e47d80c8e2b069ab7c004d8434"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sysalwebapps/advanced-custom-fields-pro/zipball/4be9d6f3953846e47d80c8e2b069ab7c004d8434",
+                    "reference": "4be9d6f3953846e47d80c8e2b069ab7c004d8434",
+                    "shasum": ""
+                },
+                "time": "2020-11-23T11:35:53+00:00",
                 "type": "wordpress-plugin",
                 "authors": [
                     {
@@ -121,10 +179,10 @@
             }
         },
         "sysal/genesis": {
-            "dev-main": {
+            "3.3.3": {
                 "name": "sysal/genesis",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "3.3.3",
+                "version_normalized": "3.3.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/genesis.git",
@@ -137,6 +195,35 @@
                     "shasum": ""
                 },
                 "time": "2020-10-03T20:58:30+00:00",
+                "type": "wordpress-theme",
+                "authors": [
+                    {
+                        "name": "Maria C. Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "description": "Repository for the genesis framework",
+                "support": {
+                    "source": "https://github.com/sysalwebapps/genesis/tree/3.3.3",
+                    "issues": "https://github.com/sysalwebapps/genesis/issues"
+                }
+            },
+            "dev-main": {
+                "name": "sysal/genesis",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysalwebapps/genesis.git",
+                    "reference": "48e8871993ff971aa88f89d9c3df9bab54c2d445"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sysalwebapps/genesis/zipball/48e8871993ff971aa88f89d9c3df9bab54c2d445",
+                    "reference": "48e8871993ff971aa88f89d9c3df9bab54c2d445",
+                    "shasum": ""
+                },
+                "time": "2020-11-23T12:30:04+00:00",
                 "type": "wordpress-theme",
                 "authors": [
                     {
@@ -1761,27 +1848,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/sysal-core.git",
-                    "reference": "199b4e1f6705b49fdf2c7368b9638fcd011ca978"
+                    "reference": "9d5de636064d71169d834016488e9b64b6c3e028"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/199b4e1f6705b49fdf2c7368b9638fcd011ca978",
-                    "reference": "199b4e1f6705b49fdf2c7368b9638fcd011ca978",
+                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/9d5de636064d71169d834016488e9b64b6c3e028",
+                    "reference": "9d5de636064d71169d834016488e9b64b6c3e028",
                     "shasum": ""
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
                     "php-di/php-di": "6.0.*",
-                    "sysal/advanced-custom-fields-pro": "5.8.*",
-                    "sysal/genesis": "@dev",
-                    "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
-                    "wpackagist-plugin/advanced-forms": "1.7.*",
                     "wpackagist-plugin/cookie-notice": "1.3.*",
-                    "wpackagist-plugin/ilab-media-tools": "3.3.*",
                     "wpackagist-plugin/limit-login-attempts-reloaded": "2.15.*",
                     "wpackagist-plugin/wps-hide-login": "1.5.*"
                 },
-                "time": "2020-10-22T18:13:28+00:00",
+                "time": "2020-11-25T17:25:32+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
