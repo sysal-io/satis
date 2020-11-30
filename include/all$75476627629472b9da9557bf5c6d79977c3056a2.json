@@ -1848,22 +1848,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/sysal-core.git",
-                    "reference": "9d5de636064d71169d834016488e9b64b6c3e028"
+                    "reference": "eebac4312db9e5b81a561912cc888a9c8387a741"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/9d5de636064d71169d834016488e9b64b6c3e028",
-                    "reference": "9d5de636064d71169d834016488e9b64b6c3e028",
+                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/eebac4312db9e5b81a561912cc888a9c8387a741",
+                    "reference": "eebac4312db9e5b81a561912cc888a9c8387a741",
                     "shasum": ""
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
-                    "php-di/php-di": "6.0.*",
-                    "wpackagist-plugin/cookie-notice": "1.3.*",
-                    "wpackagist-plugin/limit-login-attempts-reloaded": "2.15.*",
-                    "wpackagist-plugin/wps-hide-login": "1.5.*"
+                    "php-di/php-di": "6.0.*"
                 },
-                "time": "2020-11-25T17:25:32+00:00",
+                "time": "2020-11-30T23:37:05+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
