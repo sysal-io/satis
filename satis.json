@@ -53,6 +53,10 @@
 		{
 			"type": "vcs",
 			"url": "git@github.com:sysalwebapps/sysal-core.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/languages.git"
 		}
 	],
 	"require-all": true
