@@ -246,16 +246,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/languages.git",
-                    "reference": "a1d34262dfe52738f61836b08e2290a6f5ac34dd"
+                    "reference": "f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/languages/zipball/a1d34262dfe52738f61836b08e2290a6f5ac34dd",
-                    "reference": "a1d34262dfe52738f61836b08e2290a6f5ac34dd",
+                    "url": "https://api.github.com/repos/sysalwebapps/languages/zipball/f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa",
+                    "reference": "f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa",
                     "shasum": ""
                 },
-                "time": "2020-12-23T16:55:00+00:00",
-                "type": "library",
+                "time": "2020-12-23T17:33:16+00:00",
+                "type": "wordpress-plugin",
                 "authors": [
                     {
                         "name": "Sysal Webapps",
