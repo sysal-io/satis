@@ -118,6 +118,36 @@
                 }
             }
         },
+        "sysal/authority-pro": {
+            "dev-main": {
+                "name": "sysal/authority-pro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysalwebapps/authority-pro.git",
+                    "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sysalwebapps/authority-pro/zipball/5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
+                    "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
+                    "shasum": ""
+                },
+                "time": "2021-01-05T12:43:22+00:00",
+                "type": "wordpress-theme",
+                "authors": [
+                    {
+                        "name": "Maria C. Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysalwebapps/authority-pro/tree/main",
+                    "issues": "https://github.com/sysalwebapps/authority-pro/issues"
+                }
+            }
+        },
         "sysal/digital-pro": {
             "dev-main": {
                 "name": "sysal/digital-pro",
@@ -1878,19 +1908,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/sysal-core.git",
-                    "reference": "eba662d86b9346b10beb61cf0976ab9d20085a07"
+                    "reference": "0ddb7afbb374ab449d168b1d4cceaeffcd896863"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/eba662d86b9346b10beb61cf0976ab9d20085a07",
-                    "reference": "eba662d86b9346b10beb61cf0976ab9d20085a07",
+                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/0ddb7afbb374ab449d168b1d4cceaeffcd896863",
+                    "reference": "0ddb7afbb374ab449d168b1d4cceaeffcd896863",
                     "shasum": ""
                 },
                 "require": {
+                    "filp/whoops": "^2.9",
+                    "kint-php/kint": "^3.3",
                     "mustache/mustache": "~2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2020-12-23T22:23:15+00:00",
+                "time": "2020-12-30T22:51:58+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {

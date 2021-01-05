@@ -57,6 +57,10 @@
 		{
 			"type": "vcs",
 			"url": "git@github.com:sysalwebapps/languages.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:sysalwebapps/authority-pro.git"
 		}
 	],
 	"require-all": true
