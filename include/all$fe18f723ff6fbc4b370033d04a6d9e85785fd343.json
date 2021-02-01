@@ -1908,12 +1908,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/sysal-core.git",
-                    "reference": "f65895adf0414c6098135d3e4a1150a2e9fb88cd"
+                    "reference": "3094f5abfeba476eac44c4797592d69547bc92ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/f65895adf0414c6098135d3e4a1150a2e9fb88cd",
-                    "reference": "f65895adf0414c6098135d3e4a1150a2e9fb88cd",
+                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/3094f5abfeba476eac44c4797592d69547bc92ce",
+                    "reference": "3094f5abfeba476eac44c4797592d69547bc92ce",
                     "shasum": ""
                 },
                 "require": {
@@ -1930,7 +1930,7 @@
                     "wpackagist-plugin/ilab-media-tools": "4.1.*",
                     "wpackagist-plugin/wps-hide-login": "1.6"
                 },
-                "time": "2021-01-27T11:57:13+00:00",
+                "time": "2021-02-01T01:16:19+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
