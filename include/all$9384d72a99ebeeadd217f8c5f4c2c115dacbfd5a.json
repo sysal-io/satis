@@ -66,15 +66,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git",
-                    "reference": "4be9d6f3953846e47d80c8e2b069ab7c004d8434"
+                    "reference": "3baa37a143ad15307a1445bfa0a66905235c69de"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/advanced-custom-fields-pro/zipball/4be9d6f3953846e47d80c8e2b069ab7c004d8434",
-                    "reference": "4be9d6f3953846e47d80c8e2b069ab7c004d8434",
+                    "url": "https://api.github.com/repos/sysalwebapps/advanced-custom-fields-pro/zipball/3baa37a143ad15307a1445bfa0a66905235c69de",
+                    "reference": "3baa37a143ad15307a1445bfa0a66905235c69de",
                     "shasum": ""
                 },
-                "time": "2020-11-23T11:35:53+00:00",
+                "time": "2021-01-24T17:20:35+00:00",
                 "type": "wordpress-plugin",
                 "authors": [
                     {
@@ -1908,21 +1908,29 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysalwebapps/sysal-core.git",
-                    "reference": "0ddb7afbb374ab449d168b1d4cceaeffcd896863"
+                    "reference": "f65895adf0414c6098135d3e4a1150a2e9fb88cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/0ddb7afbb374ab449d168b1d4cceaeffcd896863",
-                    "reference": "0ddb7afbb374ab449d168b1d4cceaeffcd896863",
+                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/f65895adf0414c6098135d3e4a1150a2e9fb88cd",
+                    "reference": "f65895adf0414c6098135d3e4a1150a2e9fb88cd",
                     "shasum": ""
                 },
                 "require": {
                     "filp/whoops": "^2.9",
                     "kint-php/kint": "^3.3",
                     "mustache/mustache": "~2.5",
-                    "php-di/php-di": "6.0.*"
+                    "php-di/php-di": "6.0.*",
+                    "sysal/advanced-custom-fields-pro": "dev-main",
+                    "sysal/genesis": "dev-main",
+                    "sysal/languages": "dev-main",
+                    "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
+                    "wpackagist-plugin/advanced-forms": "1.7.*",
+                    "wpackagist-plugin/genesis-blocks": "1.2.*",
+                    "wpackagist-plugin/ilab-media-tools": "4.1.*",
+                    "wpackagist-plugin/wps-hide-login": "1.6"
                 },
-                "time": "2020-12-30T22:51:58+00:00",
+                "time": "2021-01-27T11:57:13+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
