@@ -1,18 +1,47 @@
 {
     "packages": {
         "sysal/academy-pro": {
+            "1.0.7": {
+                "name": "sysal/academy-pro",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/academy-pro.git",
+                    "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/academy-pro/sysal-academy-pro-13b374c41afa7c1081b76a4e310a7f41b8747978-zip-dfde9a.tar",
+                    "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978",
+                    "shasum": "a5f291f0fc93c9e5882383e46c95f0f2c2248a4e"
+                },
+                "time": "2020-11-25T17:49:51+00:00",
+                "type": "wordpress-theme",
+                "installation-source": "dist",
+                "authors": [
+                    {
+                        "name": "Maria C. Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysaltech/academy-pro/tree/1.0.7",
+                    "issues": "https://github.com/sysaltech/academy-pro/issues"
+                }
+            },
             "dev-main": {
                 "name": "sysal/academy-pro",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/academy-pro.git",
+                    "url": "git@github.com:sysaltech/academy-pro.git",
                     "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/academy-pro/zipball/13b374c41afa7c1081b76a4e310a7f41b8747978",
+                    "url": "https://api.github.com/repos/sysaltech/academy-pro/zipball/13b374c41afa7c1081b76a4e310a7f41b8747978",
                     "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978",
                     "shasum": ""
                 },
@@ -25,8 +54,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/academy-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/academy-pro/issues"
+                    "source": "https://github.com/sysaltech/academy-pro/tree/1.0.7",
+                    "issues": "https://github.com/sysaltech/academy-pro/issues"
                 }
             }
         },
@@ -37,14 +66,14 @@
                 "version_normalized": "5.9.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git",
+                    "url": "git@github.com:sysaltech/advanced-custom-fields-pro.git",
                     "reference": "10f8d66b0f816e7a9cfe32704a896a28d216c657"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/advanced-custom-fields-pro/zipball/10f8d66b0f816e7a9cfe32704a896a28d216c657",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/advanced-custom-fields-pro/sysal-advanced-custom-fields-pro-10f8d66b0f816e7a9cfe32704a896a28d216c657-zip-a6fc45.tar",
                     "reference": "10f8d66b0f816e7a9cfe32704a896a28d216c657",
-                    "shasum": ""
+                    "shasum": "3773ea43195d9f505a9e7fc990fba941015b77bd"
                 },
                 "time": "2020-10-03T21:34:03+00:00",
                 "type": "wordpress-plugin",
@@ -55,8 +84,36 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/advanced-custom-fields-pro/tree/5.9.3",
-                    "issues": "https://github.com/sysalwebapps/advanced-custom-fields-pro/issues"
+                    "source": "https://github.com/sysaltech/advanced-custom-fields-pro/tree/5.9.3",
+                    "issues": "https://github.com/sysaltech/advanced-custom-fields-pro/issues"
+                }
+            },
+            "5.9.4": {
+                "name": "sysal/advanced-custom-fields-pro",
+                "version": "5.9.4",
+                "version_normalized": "5.9.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/advanced-custom-fields-pro.git",
+                    "reference": "3baa37a143ad15307a1445bfa0a66905235c69de"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/advanced-custom-fields-pro/sysal-advanced-custom-fields-pro-3baa37a143ad15307a1445bfa0a66905235c69de-zip-e2792e.tar",
+                    "reference": "3baa37a143ad15307a1445bfa0a66905235c69de",
+                    "shasum": "030382aa567ea8ccd4d8967677983b769f10993f"
+                },
+                "time": "2021-01-24T17:20:35+00:00",
+                "type": "wordpress-plugin",
+                "authors": [
+                    {
+                        "name": "Maria Cristina Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysaltech/advanced-custom-fields-pro/tree/5.9.4",
+                    "issues": "https://github.com/sysaltech/advanced-custom-fields-pro/issues"
                 }
             },
             "dev-main": {
@@ -65,12 +122,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git",
+                    "url": "git@github.com:sysaltech/advanced-custom-fields-pro.git",
                     "reference": "3baa37a143ad15307a1445bfa0a66905235c69de"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/advanced-custom-fields-pro/zipball/3baa37a143ad15307a1445bfa0a66905235c69de",
+                    "url": "https://api.github.com/repos/sysaltech/advanced-custom-fields-pro/zipball/3baa37a143ad15307a1445bfa0a66905235c69de",
                     "reference": "3baa37a143ad15307a1445bfa0a66905235c69de",
                     "shasum": ""
                 },
@@ -83,8 +140,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/advanced-custom-fields-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/advanced-custom-fields-pro/issues"
+                    "source": "https://github.com/sysaltech/advanced-custom-fields-pro/tree/5.9.4",
+                    "issues": "https://github.com/sysaltech/advanced-custom-fields-pro/issues"
                 }
             }
         },
@@ -95,12 +152,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/ambiance-pro.git",
+                    "url": "git@github.com:sysaltech/ambiance-pro.git",
                     "reference": "07284f2eae301e9c13777966e71aec9351d9bb7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/ambiance-pro/zipball/07284f2eae301e9c13777966e71aec9351d9bb7a",
+                    "url": "https://api.github.com/repos/sysaltech/ambiance-pro/zipball/07284f2eae301e9c13777966e71aec9351d9bb7a",
                     "reference": "07284f2eae301e9c13777966e71aec9351d9bb7a",
                     "shasum": ""
                 },
@@ -113,24 +170,52 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/ambiance-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/ambiance-pro/issues"
+                    "source": "https://github.com/sysaltech/ambiance-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/ambiance-pro/issues"
                 }
             }
         },
         "sysal/authority-pro": {
+            "1.5.0": {
+                "name": "sysal/authority-pro",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/authority-pro.git",
+                    "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/authority-pro/sysal-authority-pro-5e2e73d9cc478836a3dd9feb02ab8633e22c44c8-zip-a5d269.tar",
+                    "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
+                    "shasum": "d71cf284e25749a4913201941dc7c42889f6cbe9"
+                },
+                "time": "2021-01-05T12:43:22+00:00",
+                "type": "wordpress-theme",
+                "authors": [
+                    {
+                        "name": "Maria C. Dadalt",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysaltech/authority-pro/tree/1.5.0",
+                    "issues": "https://github.com/sysaltech/authority-pro/issues"
+                }
+            },
             "dev-main": {
                 "name": "sysal/authority-pro",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/authority-pro.git",
+                    "url": "git@github.com:sysaltech/authority-pro.git",
                     "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/authority-pro/zipball/5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
+                    "url": "https://api.github.com/repos/sysaltech/authority-pro/zipball/5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
                     "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
                     "shasum": ""
                 },
@@ -143,8 +228,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/authority-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/authority-pro/issues"
+                    "source": "https://github.com/sysaltech/authority-pro/tree/1.5.0",
+                    "issues": "https://github.com/sysaltech/authority-pro/issues"
                 }
             }
         },
@@ -155,12 +240,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/digital-pro.git",
+                    "url": "git@github.com:sysaltech/digital-pro.git",
                     "reference": "413e0eeaa770585ac090face4955b7bc96e529c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/digital-pro/zipball/413e0eeaa770585ac090face4955b7bc96e529c2",
+                    "url": "https://api.github.com/repos/sysaltech/digital-pro/zipball/413e0eeaa770585ac090face4955b7bc96e529c2",
                     "reference": "413e0eeaa770585ac090face4955b7bc96e529c2",
                     "shasum": ""
                 },
@@ -173,8 +258,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/digital-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/digital-pro/issues"
+                    "source": "https://github.com/sysaltech/digital-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/digital-pro/issues"
                 }
             }
         },
@@ -185,12 +270,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/enterprise-pro.git",
+                    "url": "git@github.com:sysaltech/enterprise-pro.git",
                     "reference": "9c64077aabd598befef4a181e8cb21c00234b100"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/enterprise-pro/zipball/9c64077aabd598befef4a181e8cb21c00234b100",
+                    "url": "https://api.github.com/repos/sysaltech/enterprise-pro/zipball/9c64077aabd598befef4a181e8cb21c00234b100",
                     "reference": "9c64077aabd598befef4a181e8cb21c00234b100",
                     "shasum": ""
                 },
@@ -203,8 +288,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/enterprise-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/enterprise-pro/issues"
+                    "source": "https://github.com/sysaltech/enterprise-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/enterprise-pro/issues"
                 }
             }
         },
@@ -215,14 +300,14 @@
                 "version_normalized": "3.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/genesis.git",
+                    "url": "git@github.com:sysaltech/genesis.git",
                     "reference": "61cf1e7222457ba193f12790e494c79fd288c8fd"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/genesis/zipball/61cf1e7222457ba193f12790e494c79fd288c8fd",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/genesis/sysal-genesis-61cf1e7222457ba193f12790e494c79fd288c8fd-zip-c46d63.tar",
                     "reference": "61cf1e7222457ba193f12790e494c79fd288c8fd",
-                    "shasum": ""
+                    "shasum": "616157e6357171bd47097d77342bf268a8689598"
                 },
                 "time": "2020-10-03T20:58:30+00:00",
                 "type": "wordpress-theme",
@@ -234,8 +319,8 @@
                 ],
                 "description": "Repository for the genesis framework",
                 "support": {
-                    "source": "https://github.com/sysalwebapps/genesis/tree/3.3.3",
-                    "issues": "https://github.com/sysalwebapps/genesis/issues"
+                    "source": "https://github.com/sysaltech/genesis/tree/3.3.3",
+                    "issues": "https://github.com/sysaltech/genesis/issues"
                 }
             },
             "dev-main": {
@@ -244,12 +329,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/genesis.git",
+                    "url": "git@github.com:sysaltech/genesis.git",
                     "reference": "48e8871993ff971aa88f89d9c3df9bab54c2d445"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/genesis/zipball/48e8871993ff971aa88f89d9c3df9bab54c2d445",
+                    "url": "https://api.github.com/repos/sysaltech/genesis/zipball/48e8871993ff971aa88f89d9c3df9bab54c2d445",
                     "reference": "48e8871993ff971aa88f89d9c3df9bab54c2d445",
                     "shasum": ""
                 },
@@ -263,8 +348,8 @@
                 ],
                 "description": "Repository for the genesis framework",
                 "support": {
-                    "source": "https://github.com/sysalwebapps/genesis/tree/main",
-                    "issues": "https://github.com/sysalwebapps/genesis/issues"
+                    "source": "https://github.com/sysaltech/genesis/tree/main",
+                    "issues": "https://github.com/sysaltech/genesis/issues"
                 }
             }
         },
@@ -275,12 +360,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/languages.git",
+                    "url": "git@github.com:sysaltech/languages.git",
                     "reference": "f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/languages/zipball/f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa",
+                    "url": "https://api.github.com/repos/sysaltech/languages/zipball/f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa",
                     "reference": "f02cfd8ab48ea448ed8cfb53b94063a0eb0289aa",
                     "shasum": ""
                 },
@@ -293,8 +378,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/languages/tree/main",
-                    "issues": "https://github.com/sysalwebapps/languages/issues"
+                    "source": "https://github.com/sysaltech/languages/tree/main",
+                    "issues": "https://github.com/sysaltech/languages/issues"
                 }
             }
         },
@@ -305,12 +390,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/monochrome-pro.git",
+                    "url": "git@github.com:sysaltech/monochrome-pro.git",
                     "reference": "9617ad9e18f58e5573e0d1b6cd2e2055b2a53a5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/monochrome-pro/zipball/9617ad9e18f58e5573e0d1b6cd2e2055b2a53a5c",
+                    "url": "https://api.github.com/repos/sysaltech/monochrome-pro/zipball/9617ad9e18f58e5573e0d1b6cd2e2055b2a53a5c",
                     "reference": "9617ad9e18f58e5573e0d1b6cd2e2055b2a53a5c",
                     "shasum": ""
                 },
@@ -323,8 +408,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/monochrome-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/monochrome-pro/issues"
+                    "source": "https://github.com/sysaltech/monochrome-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/monochrome-pro/issues"
                 }
             }
         },
@@ -335,12 +420,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sixteen-nine-pro.git",
+                    "url": "git@github.com:sysaltech/sixteen-nine-pro.git",
                     "reference": "13468988ab67aab8e03f14fe456afa9955528718"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sixteen-nine-pro/zipball/13468988ab67aab8e03f14fe456afa9955528718",
+                    "url": "https://api.github.com/repos/sysaltech/sixteen-nine-pro/zipball/13468988ab67aab8e03f14fe456afa9955528718",
                     "reference": "13468988ab67aab8e03f14fe456afa9955528718",
                     "shasum": ""
                 },
@@ -353,8 +438,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sixteen-nine-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/sixteen-nine-pro/issues"
+                    "source": "https://github.com/sysaltech/sixteen-nine-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/sixteen-nine-pro/issues"
                 }
             }
         },
@@ -365,12 +450,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/slush-pro.git",
+                    "url": "git@github.com:sysaltech/slush-pro.git",
                     "reference": "613628981345a4b5a3eaf37e08f41df1103929aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/slush-pro/zipball/613628981345a4b5a3eaf37e08f41df1103929aa",
+                    "url": "https://api.github.com/repos/sysaltech/slush-pro/zipball/613628981345a4b5a3eaf37e08f41df1103929aa",
                     "reference": "613628981345a4b5a3eaf37e08f41df1103929aa",
                     "shasum": ""
                 },
@@ -384,8 +469,8 @@
                 ],
                 "description": "Copy of slush-pro theme, from studiopress (genesis).",
                 "support": {
-                    "source": "https://github.com/sysalwebapps/slush-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/slush-pro/issues"
+                    "source": "https://github.com/sysaltech/slush-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/slush-pro/issues"
                 }
             }
         },
@@ -396,12 +481,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/studio-pro.git",
+                    "url": "git@github.com:sysaltech/studio-pro.git",
                     "reference": "6203ac8853d50fb6a3c907038ab66b5c3dfa88f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/studio-pro/zipball/6203ac8853d50fb6a3c907038ab66b5c3dfa88f4",
+                    "url": "https://api.github.com/repos/sysaltech/studio-pro/zipball/6203ac8853d50fb6a3c907038ab66b5c3dfa88f4",
                     "reference": "6203ac8853d50fb6a3c907038ab66b5c3dfa88f4",
                     "shasum": ""
                 },
@@ -414,8 +499,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/studio-pro/tree/main",
-                    "issues": "https://github.com/sysalwebapps/studio-pro/issues"
+                    "source": "https://github.com/sysaltech/studio-pro/tree/main",
+                    "issues": "https://github.com/sysaltech/studio-pro/issues"
                 }
             }
         },
@@ -426,14 +511,14 @@
                 "version_normalized": "0.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "86ac236258a84a8079fccc0a0c8ff85fd89aed4a"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/86ac236258a84a8079fccc0a0c8ff85fd89aed4a",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-86ac236258a84a8079fccc0a0c8ff85fd89aed4a-zip-daded9.tar",
                     "reference": "86ac236258a84a8079fccc0a0c8ff85fd89aed4a",
-                    "shasum": ""
+                    "shasum": "52c105826bed8eeb6a79c226eb3a14367b000f8d"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -458,8 +543,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.1.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.1.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.1.1": {
@@ -468,14 +553,14 @@
                 "version_normalized": "0.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "59a43a4d02a0f0846ea516321072495cc12c71b9"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/59a43a4d02a0f0846ea516321072495cc12c71b9",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-59a43a4d02a0f0846ea516321072495cc12c71b9-zip-820ddb.tar",
                     "reference": "59a43a4d02a0f0846ea516321072495cc12c71b9",
-                    "shasum": ""
+                    "shasum": "e8cb8df8adb3bfe331f84d842b8be4b494ae57f2"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -500,8 +585,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.1.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.1.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.1.2": {
@@ -510,14 +595,14 @@
                 "version_normalized": "0.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "59a43a4d02a0f0846ea516321072495cc12c71b9"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/59a43a4d02a0f0846ea516321072495cc12c71b9",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-59a43a4d02a0f0846ea516321072495cc12c71b9-zip-820ddb.tar",
                     "reference": "59a43a4d02a0f0846ea516321072495cc12c71b9",
-                    "shasum": ""
+                    "shasum": "e8cb8df8adb3bfe331f84d842b8be4b494ae57f2"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -542,8 +627,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.1.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.1.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.10.0": {
@@ -552,14 +637,14 @@
                 "version_normalized": "0.10.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "08ed01cb6b28eaa9cf4ce11c369934d7978c4323"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/08ed01cb6b28eaa9cf4ce11c369934d7978c4323",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-08ed01cb6b28eaa9cf4ce11c369934d7978c4323-zip-712f71.tar",
                     "reference": "08ed01cb6b28eaa9cf4ce11c369934d7978c4323",
-                    "shasum": ""
+                    "shasum": "2961dffe28ef12ef3e5d64c365db7e747ce1f64e"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -586,8 +671,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.10.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.10.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.11.0": {
@@ -596,14 +681,14 @@
                 "version_normalized": "0.11.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "818aeb7bdc30d132f3a71cb851b3b7f2974456b0"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/818aeb7bdc30d132f3a71cb851b3b7f2974456b0",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-818aeb7bdc30d132f3a71cb851b3b7f2974456b0-zip-bae0ee.tar",
                     "reference": "818aeb7bdc30d132f3a71cb851b3b7f2974456b0",
-                    "shasum": ""
+                    "shasum": "ca1b2d456244fa972410a530d16d26918d98c121"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -631,8 +716,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.11.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.11.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.11.1": {
@@ -641,14 +726,14 @@
                 "version_normalized": "0.11.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "818aeb7bdc30d132f3a71cb851b3b7f2974456b0"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/818aeb7bdc30d132f3a71cb851b3b7f2974456b0",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-818aeb7bdc30d132f3a71cb851b3b7f2974456b0-zip-bae0ee.tar",
                     "reference": "818aeb7bdc30d132f3a71cb851b3b7f2974456b0",
-                    "shasum": ""
+                    "shasum": "ca1b2d456244fa972410a530d16d26918d98c121"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -676,8 +761,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.11.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.11.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.12.0": {
@@ -686,14 +771,14 @@
                 "version_normalized": "0.12.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "e15a55ba662360937ab0c470c7f3782d72d7db1a"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/e15a55ba662360937ab0c470c7f3782d72d7db1a",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-e15a55ba662360937ab0c470c7f3782d72d7db1a-zip-1a4650.tar",
                     "reference": "e15a55ba662360937ab0c470c7f3782d72d7db1a",
-                    "shasum": ""
+                    "shasum": "bd7c3a82abe9a1d88b9ae1747094b4076a8eb133"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -721,8 +806,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.12.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.12.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.2.0": {
@@ -731,14 +816,14 @@
                 "version_normalized": "0.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "f84dcda4be148d54e162a3d13493c598d1f297fe"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/f84dcda4be148d54e162a3d13493c598d1f297fe",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f84dcda4be148d54e162a3d13493c598d1f297fe-zip-0a18e6.tar",
                     "reference": "f84dcda4be148d54e162a3d13493c598d1f297fe",
-                    "shasum": ""
+                    "shasum": "68357b8ce0877327f454bbbd4edc6bb4fb21f47e"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -763,8 +848,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.2.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.2.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.3.0": {
@@ -773,14 +858,14 @@
                 "version_normalized": "0.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "546a17856016bde3a2ebfbe7b4d119950b344ff0"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/546a17856016bde3a2ebfbe7b4d119950b344ff0",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-546a17856016bde3a2ebfbe7b4d119950b344ff0-zip-25eebb.tar",
                     "reference": "546a17856016bde3a2ebfbe7b4d119950b344ff0",
-                    "shasum": ""
+                    "shasum": "3d48c08b4040bf4f6acdaedec2aaa52bfb0a704c"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -805,8 +890,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.3.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.3.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.3.1": {
@@ -815,14 +900,14 @@
                 "version_normalized": "0.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "b96ea8b88e132741603972e4412baf38e61a743c"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/b96ea8b88e132741603972e4412baf38e61a743c",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-b96ea8b88e132741603972e4412baf38e61a743c-zip-546d74.tar",
                     "reference": "b96ea8b88e132741603972e4412baf38e61a743c",
-                    "shasum": ""
+                    "shasum": "833d16dc53493e3f64d7da2a3a6b7c77c819d2aa"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -847,8 +932,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.3.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.3.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.3.2": {
@@ -857,14 +942,14 @@
                 "version_normalized": "0.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "7bf514ef9fb272e284e45cac1558a401ac631ff0"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/7bf514ef9fb272e284e45cac1558a401ac631ff0",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-7bf514ef9fb272e284e45cac1558a401ac631ff0-zip-aaa764.tar",
                     "reference": "7bf514ef9fb272e284e45cac1558a401ac631ff0",
-                    "shasum": ""
+                    "shasum": "2889e28feb4da08df56736780001d15d96a1bb45"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -889,8 +974,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.3.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.3.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.3.3": {
@@ -899,14 +984,14 @@
                 "version_normalized": "0.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "27ba8dc86701690ef0a7d8f6139739ec6889fb45"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/27ba8dc86701690ef0a7d8f6139739ec6889fb45",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-27ba8dc86701690ef0a7d8f6139739ec6889fb45-zip-3c720c.tar",
                     "reference": "27ba8dc86701690ef0a7d8f6139739ec6889fb45",
-                    "shasum": ""
+                    "shasum": "5abe28ffc57cabd4e3e5648060f5c8670f142d80"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -931,8 +1016,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.3.3",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.3.3",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.0": {
@@ -941,14 +1026,14 @@
                 "version_normalized": "0.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "e4a164badb324edf89b47c94aba64a7117c86210"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/e4a164badb324edf89b47c94aba64a7117c86210",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-e4a164badb324edf89b47c94aba64a7117c86210-zip-143c7e.tar",
                     "reference": "e4a164badb324edf89b47c94aba64a7117c86210",
-                    "shasum": ""
+                    "shasum": "57422d3f15d959b68ea4c726ad2ffa0f8bc25b77"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -973,8 +1058,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.1": {
@@ -983,14 +1068,14 @@
                 "version_normalized": "0.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "79fbc1cb8e0c45d254179ab127a6c0659de523ef"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/79fbc1cb8e0c45d254179ab127a6c0659de523ef",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-79fbc1cb8e0c45d254179ab127a6c0659de523ef-zip-1dccf0.tar",
                     "reference": "79fbc1cb8e0c45d254179ab127a6c0659de523ef",
-                    "shasum": ""
+                    "shasum": "8242dad0c47a3c9f1367e7f561b796b317438a6e"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1015,8 +1100,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.2": {
@@ -1025,14 +1110,14 @@
                 "version_normalized": "0.4.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "a6be3d019b7714acabd0869ff492d896c1fd999e"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/a6be3d019b7714acabd0869ff492d896c1fd999e",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-a6be3d019b7714acabd0869ff492d896c1fd999e-zip-415fa8.tar",
                     "reference": "a6be3d019b7714acabd0869ff492d896c1fd999e",
-                    "shasum": ""
+                    "shasum": "bf0818aa88d2cfc4cc47fbca5e8d0e464c2ee82b"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1057,8 +1142,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.3": {
@@ -1067,14 +1152,14 @@
                 "version_normalized": "0.4.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "88f24a3b1b6aed057584957d5a1011f65345ca80"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/88f24a3b1b6aed057584957d5a1011f65345ca80",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-88f24a3b1b6aed057584957d5a1011f65345ca80-zip-5d0ef5.tar",
                     "reference": "88f24a3b1b6aed057584957d5a1011f65345ca80",
-                    "shasum": ""
+                    "shasum": "1d5718ca6c9e9b9eecc5da8cff85e58fefb06d99"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1094,8 +1179,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.3",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.3",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.4": {
@@ -1104,14 +1189,14 @@
                 "version_normalized": "0.4.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "c034470b91e48179a0504815b8a9882e5ba57c20"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/c034470b91e48179a0504815b8a9882e5ba57c20",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-c034470b91e48179a0504815b8a9882e5ba57c20-zip-42cf4d.tar",
                     "reference": "c034470b91e48179a0504815b8a9882e5ba57c20",
-                    "shasum": ""
+                    "shasum": "737c8de3a781319dd03bf6fd3c5072d4ec94babc"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1131,8 +1216,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.4",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.4",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.5": {
@@ -1141,14 +1226,14 @@
                 "version_normalized": "0.4.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "61ac511c6935e85f8a6d2da6fc7b36c7f0c844fc"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/61ac511c6935e85f8a6d2da6fc7b36c7f0c844fc",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-61ac511c6935e85f8a6d2da6fc7b36c7f0c844fc-zip-df3f35.tar",
                     "reference": "61ac511c6935e85f8a6d2da6fc7b36c7f0c844fc",
-                    "shasum": ""
+                    "shasum": "217ff74d2638462f8b43c8cdca6896814e66730d"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1168,8 +1253,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.5",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.5",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.4.6": {
@@ -1178,14 +1263,14 @@
                 "version_normalized": "0.4.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "5cf61d3c8000dd56d1659b2c05930b2f1f23c13a"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/5cf61d3c8000dd56d1659b2c05930b2f1f23c13a",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-5cf61d3c8000dd56d1659b2c05930b2f1f23c13a-zip-7bb8cf.tar",
                     "reference": "5cf61d3c8000dd56d1659b2c05930b2f1f23c13a",
-                    "shasum": ""
+                    "shasum": "6606c7b2366bc78386847af78475f841b0d58fbf"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1205,8 +1290,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.4.6",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.4.6",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.5.0": {
@@ -1215,14 +1300,14 @@
                 "version_normalized": "0.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "ddecb24e20a83f9ccf6183c0975239df625e4502"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/ddecb24e20a83f9ccf6183c0975239df625e4502",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-ddecb24e20a83f9ccf6183c0975239df625e4502-zip-e27bcf.tar",
                     "reference": "ddecb24e20a83f9ccf6183c0975239df625e4502",
-                    "shasum": ""
+                    "shasum": "fa0cfa13e41e982915a05f391c0535e711fda57c"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1242,8 +1327,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.5.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.5.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.5.1": {
@@ -1252,14 +1337,14 @@
                 "version_normalized": "0.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "45886360c6f08a8224d8a5b0c719b92668530b6d"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/45886360c6f08a8224d8a5b0c719b92668530b6d",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-45886360c6f08a8224d8a5b0c719b92668530b6d-zip-f69123.tar",
                     "reference": "45886360c6f08a8224d8a5b0c719b92668530b6d",
-                    "shasum": ""
+                    "shasum": "3816e13d4a1a2801101556aa5586b3006ad78946"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1279,8 +1364,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.5.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.5.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.5.2": {
@@ -1289,14 +1374,14 @@
                 "version_normalized": "0.5.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "52f06d38098ea149cc2d2d16df72af94dc75f045"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/52f06d38098ea149cc2d2d16df72af94dc75f045",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-52f06d38098ea149cc2d2d16df72af94dc75f045-zip-3762c9.tar",
                     "reference": "52f06d38098ea149cc2d2d16df72af94dc75f045",
-                    "shasum": ""
+                    "shasum": "500728ae7557384ff9c3dcdd93b2edac620edd20"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1316,8 +1401,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.5.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.5.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.5.3": {
@@ -1326,14 +1411,14 @@
                 "version_normalized": "0.5.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "3c2c0534ca0cc56eb37c62ea7e3cb0fa4ee0514e"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/3c2c0534ca0cc56eb37c62ea7e3cb0fa4ee0514e",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-3c2c0534ca0cc56eb37c62ea7e3cb0fa4ee0514e-zip-2de199.tar",
                     "reference": "3c2c0534ca0cc56eb37c62ea7e3cb0fa4ee0514e",
-                    "shasum": ""
+                    "shasum": "fd301feb2ad31b385cbc1f71914615fe99ab88b1"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1353,8 +1438,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.5.3",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.5.3",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.5.5": {
@@ -1363,14 +1448,14 @@
                 "version_normalized": "0.5.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "169efcb13c580e4d01ccea9211f8a0b8b8e488f0"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/169efcb13c580e4d01ccea9211f8a0b8b8e488f0",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-169efcb13c580e4d01ccea9211f8a0b8b8e488f0-zip-7cd693.tar",
                     "reference": "169efcb13c580e4d01ccea9211f8a0b8b8e488f0",
-                    "shasum": ""
+                    "shasum": "fcc92e7979a230f993e7ee5ec9ec178bd4e32cdc"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1390,8 +1475,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.5.5",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.5.5",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.6.0": {
@@ -1400,14 +1485,14 @@
                 "version_normalized": "0.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "f46644297c4439e95e05bf9d7445345300f69db3"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/f46644297c4439e95e05bf9d7445345300f69db3",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f46644297c4439e95e05bf9d7445345300f69db3-zip-2043c9.tar",
                     "reference": "f46644297c4439e95e05bf9d7445345300f69db3",
-                    "shasum": ""
+                    "shasum": "06ed7e7219cc3b832df9168fbd042ce44584156b"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1427,8 +1512,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.6.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.6.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.6.1": {
@@ -1437,14 +1522,14 @@
                 "version_normalized": "0.6.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "a0b395a98d89aa8b43fca6b08ec18e240878891a"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/a0b395a98d89aa8b43fca6b08ec18e240878891a",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-a0b395a98d89aa8b43fca6b08ec18e240878891a-zip-935465.tar",
                     "reference": "a0b395a98d89aa8b43fca6b08ec18e240878891a",
-                    "shasum": ""
+                    "shasum": "26e7843ee9362e8f7c100a43aaae9dbf04cc8bde"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1464,8 +1549,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.6.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.6.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.6.2": {
@@ -1474,14 +1559,14 @@
                 "version_normalized": "0.6.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "57fa77722d0efb6f6d693e6b266963b175fd80d2"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/57fa77722d0efb6f6d693e6b266963b175fd80d2",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-57fa77722d0efb6f6d693e6b266963b175fd80d2-zip-68a36f.tar",
                     "reference": "57fa77722d0efb6f6d693e6b266963b175fd80d2",
-                    "shasum": ""
+                    "shasum": "cf1dab882cdb4f680ef829682ae1a5f10d7fb98f"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1501,8 +1586,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.6.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.6.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.6.3": {
@@ -1511,14 +1596,14 @@
                 "version_normalized": "0.6.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "5854a6cf4c8181cce4105c918bed069be334cb18"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/5854a6cf4c8181cce4105c918bed069be334cb18",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-5854a6cf4c8181cce4105c918bed069be334cb18-zip-b0026d.tar",
                     "reference": "5854a6cf4c8181cce4105c918bed069be334cb18",
-                    "shasum": ""
+                    "shasum": "2cf26c28934b89f78798462e36d185731ea7d218"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1538,8 +1623,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.6.3",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.6.3",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.7.0": {
@@ -1548,14 +1633,14 @@
                 "version_normalized": "0.7.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "b900b87a675352326ce4c0daa6e10a38fcf489dc"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/b900b87a675352326ce4c0daa6e10a38fcf489dc",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-b900b87a675352326ce4c0daa6e10a38fcf489dc-zip-e90f99.tar",
                     "reference": "b900b87a675352326ce4c0daa6e10a38fcf489dc",
-                    "shasum": ""
+                    "shasum": "c9a84f74d70bfb0f21462730482f725a3f29b1fb"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1575,8 +1660,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.7.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.7.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.7.1": {
@@ -1585,14 +1670,14 @@
                 "version_normalized": "0.7.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "428ce0c2276abdcb6972c5b083fc38c913ec7261"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/428ce0c2276abdcb6972c5b083fc38c913ec7261",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-428ce0c2276abdcb6972c5b083fc38c913ec7261-zip-082dd9.tar",
                     "reference": "428ce0c2276abdcb6972c5b083fc38c913ec7261",
-                    "shasum": ""
+                    "shasum": "8cbae055da320b205b0fe12d777086fc39fc4cfa"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1612,8 +1697,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.7.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.7.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.7.2": {
@@ -1622,14 +1707,14 @@
                 "version_normalized": "0.7.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "16fb41a99d4938a74b16997ba4c6fca0b4ce48ec"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/16fb41a99d4938a74b16997ba4c6fca0b4ce48ec",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-16fb41a99d4938a74b16997ba4c6fca0b4ce48ec-zip-5f27a7.tar",
                     "reference": "16fb41a99d4938a74b16997ba4c6fca0b4ce48ec",
-                    "shasum": ""
+                    "shasum": "81b1f8470356fa4f8ca701e6d25516cdb4f04bae"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1649,8 +1734,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.7.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.7.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.8.1": {
@@ -1659,14 +1744,14 @@
                 "version_normalized": "0.8.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "6ff71bae05e0a2248d5f0a1ebcb81791b75a75e3"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/6ff71bae05e0a2248d5f0a1ebcb81791b75a75e3",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-6ff71bae05e0a2248d5f0a1ebcb81791b75a75e3-zip-9bf419.tar",
                     "reference": "6ff71bae05e0a2248d5f0a1ebcb81791b75a75e3",
-                    "shasum": ""
+                    "shasum": "c43d234f93e61cc7d114b0cbe274041815b3a1d0"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1686,8 +1771,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.8.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.8.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.8.2": {
@@ -1696,14 +1781,14 @@
                 "version_normalized": "0.8.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "0d191873fc6d1b7f195e345fccb26f9cb35e7ef1"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/0d191873fc6d1b7f195e345fccb26f9cb35e7ef1",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-0d191873fc6d1b7f195e345fccb26f9cb35e7ef1-zip-d6e5d8.tar",
                     "reference": "0d191873fc6d1b7f195e345fccb26f9cb35e7ef1",
-                    "shasum": ""
+                    "shasum": "b2c3abb46051251f5777d60fb9d6089f3a9761dd"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1723,8 +1808,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.8.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.8.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.9.0": {
@@ -1733,14 +1818,14 @@
                 "version_normalized": "0.9.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "f66585dc6a650ad573f8c9c49f2cba712bb42a92"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/f66585dc6a650ad573f8c9c49f2cba712bb42a92",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f66585dc6a650ad573f8c9c49f2cba712bb42a92-zip-523f95.tar",
                     "reference": "f66585dc6a650ad573f8c9c49f2cba712bb42a92",
-                    "shasum": ""
+                    "shasum": "0401b311c9eb441c36594ea1d4da083e875176f1"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -1767,8 +1852,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.9.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.9.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.9.1": {
@@ -1777,14 +1862,14 @@
                 "version_normalized": "0.9.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "71c62d35bda7f1360d21c5ef4dfb3e3f895663b7"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/71c62d35bda7f1360d21c5ef4dfb3e3f895663b7",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-71c62d35bda7f1360d21c5ef4dfb3e3f895663b7-zip-79baa3.tar",
                     "reference": "71c62d35bda7f1360d21c5ef4dfb3e3f895663b7",
-                    "shasum": ""
+                    "shasum": "75f5a8bebd8faabb6cdfdb4799b83cc0d94ea253"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -1811,8 +1896,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.9.1",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.9.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "0.9.2": {
@@ -1821,14 +1906,14 @@
                 "version_normalized": "0.9.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "70e626c9491454015ce34a636630e33946736e49"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/70e626c9491454015ce34a636630e33946736e49",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-70e626c9491454015ce34a636630e33946736e49-zip-a4a079.tar",
                     "reference": "70e626c9491454015ce34a636630e33946736e49",
-                    "shasum": ""
+                    "shasum": "a0294b1295ab2673d44ea9228a010c724d62ac8e"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -1855,8 +1940,145 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/0.9.2",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/0.9.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
+                }
+            },
+            "1.0.0": {
+                "name": "sysal/sysal-core",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
+                    "reference": "b3a7865b039c3a1ef8ccadef559c5bcb685a08c4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-b3a7865b039c3a1ef8ccadef559c5bcb685a08c4-zip-d530ac.tar",
+                    "reference": "b3a7865b039c3a1ef8ccadef559c5bcb685a08c4",
+                    "shasum": "6514c6a9ee79a4cbdd74fec1ee6384d61a3c57cd"
+                },
+                "require": {
+                    "filp/whoops": "^2.9",
+                    "kint-php/kint": "^3.3",
+                    "mustache/mustache": "~2.5",
+                    "php-di/php-di": "6.0.*",
+                    "sysal/advanced-custom-fields-pro": "dev-main",
+                    "sysal/genesis": "dev-main",
+                    "sysal/languages": "dev-main",
+                    "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
+                    "wpackagist-plugin/advanced-forms": "1.7.*",
+                    "wpackagist-plugin/genesis-blocks": "1.2.*",
+                    "wpackagist-plugin/ilab-media-tools": "4.1.*",
+                    "wpackagist-plugin/wps-hide-login": "1.6"
+                },
+                "time": "2021-02-12T12:52:21+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Sysal\\Core\\": "src_be/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Sysal Webapps",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysaltech/sysal-core/tree/1.0.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "sysal/sysal-core",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
+                    "reference": "bb5916f54a9c7433971cb15d11b9b41f433565f4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-bb5916f54a9c7433971cb15d11b9b41f433565f4-zip-cac2ff.tar",
+                    "reference": "bb5916f54a9c7433971cb15d11b9b41f433565f4",
+                    "shasum": "efc26655e3154d9e5a3aa7116262ed92cf78659b"
+                },
+                "require": {
+                    "filp/whoops": "^2.9",
+                    "kint-php/kint": "^3.3",
+                    "mustache/mustache": "~2.5",
+                    "php-di/php-di": "6.0.*",
+                    "sysal/advanced-custom-fields-pro": "5.9.*",
+                    "sysal/genesis": "3.3.*",
+                    "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
+                    "wpackagist-plugin/genesis-blocks": "1.2.*",
+                    "wpackagist-plugin/ilab-media-tools": "4.1.*",
+                    "wpackagist-plugin/wps-hide-login": "1.6"
+                },
+                "time": "2021-02-12T17:16:26+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Sysal\\Core\\": "src_be/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Sysal Webapps",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysaltech/sysal-core/tree/1.0.1",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
+                }
+            },
+            "1.0.2": {
+                "name": "sysal/sysal-core",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
+                    "reference": "79183b460e0ca07fe09178454c28b826bc4d14e4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-79183b460e0ca07fe09178454c28b826bc4d14e4-zip-cd3228.tar",
+                    "reference": "79183b460e0ca07fe09178454c28b826bc4d14e4",
+                    "shasum": "6bc9881a9c93d4de6a2f5002bb7f3e1e2d066504"
+                },
+                "require": {
+                    "filp/whoops": "^2.9",
+                    "kint-php/kint": "^3.3",
+                    "mustache/mustache": "~2.5",
+                    "php-di/php-di": "6.0.*",
+                    "sysal/advanced-custom-fields-pro": "5.9.*",
+                    "sysal/genesis": "3.3.*",
+                    "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
+                    "wpackagist-plugin/genesis-blocks": "1.2.*",
+                    "wpackagist-plugin/ilab-media-tools": "4.1.*",
+                    "wpackagist-plugin/wps-hide-login": "1.6"
+                },
+                "time": "2021-02-12T17:28:22+00:00",
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "psr-4": {
+                        "Sysal\\Core\\": "src_be/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Sysal Webapps",
+                        "email": "md@sysal.com.br"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/sysaltech/sysal-core/tree/1.0.2",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "2.0.0": {
@@ -1865,14 +2087,14 @@
                 "version_normalized": "2.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
+                    "url": "git@github.com:sysaltech/sysal-core.git",
                     "reference": "f6415a7714bf3c4737c265aea3412ef67556656d"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/f6415a7714bf3c4737c265aea3412ef67556656d",
+                    "type": "tar",
+                    "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f6415a7714bf3c4737c265aea3412ef67556656d-zip-a4024b.tar",
                     "reference": "f6415a7714bf3c4737c265aea3412ef67556656d",
-                    "shasum": ""
+                    "shasum": "f6651d64d50a3d80db9cfcc422554d161699bdea"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1897,8 +2119,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/2.0.0",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/2.0.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
             "dev-master": {
@@ -1907,13 +2129,13 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/sysal-core.git",
-                    "reference": "3094f5abfeba476eac44c4797592d69547bc92ce"
+                    "url": "git@github.com:sysaltech/sysal-core.git",
+                    "reference": "b3a7865b039c3a1ef8ccadef559c5bcb685a08c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/sysal-core/zipball/3094f5abfeba476eac44c4797592d69547bc92ce",
-                    "reference": "3094f5abfeba476eac44c4797592d69547bc92ce",
+                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/b3a7865b039c3a1ef8ccadef559c5bcb685a08c4",
+                    "reference": "b3a7865b039c3a1ef8ccadef559c5bcb685a08c4",
                     "shasum": ""
                 },
                 "require": {
@@ -1930,7 +2152,7 @@
                     "wpackagist-plugin/ilab-media-tools": "4.1.*",
                     "wpackagist-plugin/wps-hide-login": "1.6"
                 },
-                "time": "2021-02-01T01:16:19+00:00",
+                "time": "2021-02-12T12:52:21+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
@@ -1944,8 +2166,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/sysal-core/tree/master",
-                    "issues": "https://github.com/sysalwebapps/sysal-core/issues"
+                    "source": "https://github.com/sysaltech/sysal-core/tree/1.0.0",
+                    "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             }
         },
@@ -1956,12 +2178,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/woocommerce-subscriptions.git",
+                    "url": "git@github.com:sysaltech/woocommerce-subscriptions.git",
                     "reference": "ecba3a869f952b47c03f70a265d8792b6cd18729"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/woocommerce-subscriptions/zipball/ecba3a869f952b47c03f70a265d8792b6cd18729",
+                    "url": "https://api.github.com/repos/sysaltech/woocommerce-subscriptions/zipball/ecba3a869f952b47c03f70a265d8792b6cd18729",
                     "reference": "ecba3a869f952b47c03f70a265d8792b6cd18729",
                     "shasum": ""
                 },
@@ -1974,8 +2196,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/woocommerce-subscriptions/tree/main",
-                    "issues": "https://github.com/sysalwebapps/woocommerce-subscriptions/issues"
+                    "source": "https://github.com/sysaltech/woocommerce-subscriptions/tree/main",
+                    "issues": "https://github.com/sysaltech/woocommerce-subscriptions/issues"
                 }
             }
         },
@@ -1986,12 +2208,12 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:sysalwebapps/wpdatatables.git",
+                    "url": "git@github.com:sysaltech/wpdatatables.git",
                     "reference": "cd4976723cc3952c1b5f0fce4302bde89acb2364"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysalwebapps/wpdatatables/zipball/cd4976723cc3952c1b5f0fce4302bde89acb2364",
+                    "url": "https://api.github.com/repos/sysaltech/wpdatatables/zipball/cd4976723cc3952c1b5f0fce4302bde89acb2364",
                     "reference": "cd4976723cc3952c1b5f0fce4302bde89acb2364",
                     "shasum": ""
                 },
@@ -2004,8 +2226,8 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysalwebapps/wpdatatables/tree/main",
-                    "issues": "https://github.com/sysalwebapps/wpdatatables/issues"
+                    "source": "https://github.com/sysaltech/wpdatatables/tree/main",
+                    "issues": "https://github.com/sysaltech/wpdatatables/issues"
                 }
             }
         }

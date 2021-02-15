@@ -4,64 +4,69 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/genesis.git"
+			"url": "git@github.com:sysaltech/genesis.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/slush-pro.git"
+			"url": "git@github.com:sysaltech/slush-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/studio-pro.git"
+			"url": "git@github.com:sysaltech/studio-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/monochrome-pro.git"
+			"url": "git@github.com:sysaltech/monochrome-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/enterprise-pro.git"
+			"url": "git@github.com:sysaltech/enterprise-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/sixteen-nine-pro.git"
+			"url": "git@github.com:sysaltech/sixteen-nine-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/digital-pro.git"
+			"url": "git@github.com:sysaltech/digital-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/ambiance-pro.git"
+			"url": "git@github.com:sysaltech/ambiance-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/academy-pro.git"
+			"url": "git@github.com:sysaltech/academy-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/advanced-custom-fields-pro.git"
+			"url": "git@github.com:sysaltech/advanced-custom-fields-pro.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/woocommerce-subscriptions.git"
+			"url": "git@github.com:sysaltech/woocommerce-subscriptions.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/wpdatatables.git"
+			"url": "git@github.com:sysaltech/wpdatatables.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/sysal-core.git"
+			"url": "git@github.com:sysaltech/sysal-core.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/languages.git"
+			"url": "git@github.com:sysaltech/languages.git"
 		},
 		{
 			"type": "vcs",
-			"url": "git@github.com:sysalwebapps/authority-pro.git"
+			"url": "git@github.com:sysaltech/authority-pro.git"
 		}
 	],
-	"require-all": true
+	"require-all": true,
+	"archive": {
+    	"directory": "dist",
+    	"format": "tar",
+    	"skip-dev": true
+  	}
 }
