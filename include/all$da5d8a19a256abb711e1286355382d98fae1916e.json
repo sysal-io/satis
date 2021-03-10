@@ -14,10 +14,11 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/academy-pro/sysal-academy-pro-13b374c41afa7c1081b76a4e310a7f41b8747978-zip-dfde9a.tar",
                     "reference": "13b374c41afa7c1081b76a4e310a7f41b8747978",
-                    "shasum": "a5f291f0fc93c9e5882383e46c95f0f2c2248a4e"
+                    "shasum": "0ef09b1b94e14fa9af9a67dec7839957c86ffdc5"
                 },
                 "time": "2020-11-25T17:49:51+00:00",
                 "type": "wordpress-theme",
+                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria C. Dadalt",
@@ -72,10 +73,11 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/advanced-custom-fields-pro/sysal-advanced-custom-fields-pro-10f8d66b0f816e7a9cfe32704a896a28d216c657-zip-a6fc45.tar",
                     "reference": "10f8d66b0f816e7a9cfe32704a896a28d216c657",
-                    "shasum": "3773ea43195d9f505a9e7fc990fba941015b77bd"
+                    "shasum": "0d4552a91f513bcf8e433adb432c1d013b9ea5ce"
                 },
                 "time": "2020-10-03T21:34:03+00:00",
                 "type": "wordpress-plugin",
+                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria Cristina Dadalt",
@@ -100,10 +102,11 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/advanced-custom-fields-pro/sysal-advanced-custom-fields-pro-3baa37a143ad15307a1445bfa0a66905235c69de-zip-e2792e.tar",
                     "reference": "3baa37a143ad15307a1445bfa0a66905235c69de",
-                    "shasum": "030382aa567ea8ccd4d8967677983b769f10993f"
+                    "shasum": "24ce51f221b32ecf94a6e0374948d877bc086857"
                 },
                 "time": "2021-01-24T17:20:35+00:00",
                 "type": "wordpress-plugin",
+                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria Cristina Dadalt",
@@ -188,10 +191,11 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/authority-pro/sysal-authority-pro-5e2e73d9cc478836a3dd9feb02ab8633e22c44c8-zip-a5d269.tar",
                     "reference": "5e2e73d9cc478836a3dd9feb02ab8633e22c44c8",
-                    "shasum": "d71cf284e25749a4913201941dc7c42889f6cbe9"
+                    "shasum": "5ecf47b4a9e76228fd9d6aa7ab50eb20b87f9810"
                 },
                 "time": "2021-01-05T12:43:22+00:00",
                 "type": "wordpress-theme",
+                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria C. Dadalt",
@@ -306,10 +310,11 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/genesis/sysal-genesis-61cf1e7222457ba193f12790e494c79fd288c8fd-zip-c46d63.tar",
                     "reference": "61cf1e7222457ba193f12790e494c79fd288c8fd",
-                    "shasum": "616157e6357171bd47097d77342bf268a8689598"
+                    "shasum": "03e0b2ac9dd624665489f8fdb5ef7545dbf6208d"
                 },
                 "time": "2020-10-03T20:58:30+00:00",
                 "type": "wordpress-theme",
+                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria C. Dadalt",
@@ -517,7 +522,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-86ac236258a84a8079fccc0a0c8ff85fd89aed4a-zip-daded9.tar",
                     "reference": "86ac236258a84a8079fccc0a0c8ff85fd89aed4a",
-                    "shasum": "52c105826bed8eeb6a79c226eb3a14367b000f8d"
+                    "shasum": "3c366ecadd96c7b9f91c254b266b4861ed7abf29"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -530,6 +535,7 @@
                 },
                 "time": "2020-04-19T14:26:55+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -559,7 +565,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-59a43a4d02a0f0846ea516321072495cc12c71b9-zip-820ddb.tar",
                     "reference": "59a43a4d02a0f0846ea516321072495cc12c71b9",
-                    "shasum": "e8cb8df8adb3bfe331f84d842b8be4b494ae57f2"
+                    "shasum": "ab086597fa555e622acee122e2c08bada84fc8c5"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -601,7 +607,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-59a43a4d02a0f0846ea516321072495cc12c71b9-zip-820ddb.tar",
                     "reference": "59a43a4d02a0f0846ea516321072495cc12c71b9",
-                    "shasum": "e8cb8df8adb3bfe331f84d842b8be4b494ae57f2"
+                    "shasum": "ab086597fa555e622acee122e2c08bada84fc8c5"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -614,6 +620,7 @@
                 },
                 "time": "2020-04-19T15:42:54+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -643,7 +650,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f8450e3ce514be0198986e44fa804ddff8e07634-zip-dd6327.tar",
                     "reference": "f8450e3ce514be0198986e44fa804ddff8e07634",
-                    "shasum": "4772d7cfbe0d08217e37aa5936ed5e84f9b99739"
+                    "shasum": "aec1603f05ba6be55f14f011ebf6ca0fc87ff0ef"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -694,7 +701,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-08ed01cb6b28eaa9cf4ce11c369934d7978c4323-zip-712f71.tar",
                     "reference": "08ed01cb6b28eaa9cf4ce11c369934d7978c4323",
-                    "shasum": "2961dffe28ef12ef3e5d64c365db7e747ce1f64e"
+                    "shasum": "891f70a4f5f230c49a6c066db095da89320ee58c"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -709,6 +716,7 @@
                 },
                 "time": "2020-09-29T12:03:31+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -738,7 +746,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-818aeb7bdc30d132f3a71cb851b3b7f2974456b0-zip-bae0ee.tar",
                     "reference": "818aeb7bdc30d132f3a71cb851b3b7f2974456b0",
-                    "shasum": "ca1b2d456244fa972410a530d16d26918d98c121"
+                    "shasum": "d62d3174df86bad4782846baca21813971f92b65"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -783,7 +791,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-818aeb7bdc30d132f3a71cb851b3b7f2974456b0-zip-bae0ee.tar",
                     "reference": "818aeb7bdc30d132f3a71cb851b3b7f2974456b0",
-                    "shasum": "ca1b2d456244fa972410a530d16d26918d98c121"
+                    "shasum": "d62d3174df86bad4782846baca21813971f92b65"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -799,6 +807,7 @@
                 },
                 "time": "2020-10-21T19:46:30+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -828,7 +837,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-e15a55ba662360937ab0c470c7f3782d72d7db1a-zip-1a4650.tar",
                     "reference": "e15a55ba662360937ab0c470c7f3782d72d7db1a",
-                    "shasum": "bd7c3a82abe9a1d88b9ae1747094b4076a8eb133"
+                    "shasum": "0d50d4cb2b5a9fbe057645956c5f32b8adefe89b"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -844,6 +853,7 @@
                 },
                 "time": "2020-10-22T18:02:01+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -873,7 +883,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f84dcda4be148d54e162a3d13493c598d1f297fe-zip-0a18e6.tar",
                     "reference": "f84dcda4be148d54e162a3d13493c598d1f297fe",
-                    "shasum": "68357b8ce0877327f454bbbd4edc6bb4fb21f47e"
+                    "shasum": "7d761db47f1dd0479864c4fa23b295ddfa537301"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -886,6 +896,7 @@
                 },
                 "time": "2020-04-26T22:53:32+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -915,7 +926,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-546a17856016bde3a2ebfbe7b4d119950b344ff0-zip-25eebb.tar",
                     "reference": "546a17856016bde3a2ebfbe7b4d119950b344ff0",
-                    "shasum": "3d48c08b4040bf4f6acdaedec2aaa52bfb0a704c"
+                    "shasum": "e7fb8b205e22d4a80fe7505d2e1cf9ff0606194c"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -928,6 +939,7 @@
                 },
                 "time": "2020-04-27T16:15:31+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -957,7 +969,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-b96ea8b88e132741603972e4412baf38e61a743c-zip-546d74.tar",
                     "reference": "b96ea8b88e132741603972e4412baf38e61a743c",
-                    "shasum": "833d16dc53493e3f64d7da2a3a6b7c77c819d2aa"
+                    "shasum": "963c34c7ab8ca56902c5b5ed9afd47f8943976f8"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -970,6 +982,7 @@
                 },
                 "time": "2020-04-27T16:35:30+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -999,7 +1012,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-7bf514ef9fb272e284e45cac1558a401ac631ff0-zip-aaa764.tar",
                     "reference": "7bf514ef9fb272e284e45cac1558a401ac631ff0",
-                    "shasum": "2889e28feb4da08df56736780001d15d96a1bb45"
+                    "shasum": "d83f1dce999a22853c0c75c46e26f39e5177c336"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1012,6 +1025,7 @@
                 },
                 "time": "2020-05-14T14:31:43+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1041,7 +1055,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-27ba8dc86701690ef0a7d8f6139739ec6889fb45-zip-3c720c.tar",
                     "reference": "27ba8dc86701690ef0a7d8f6139739ec6889fb45",
-                    "shasum": "5abe28ffc57cabd4e3e5648060f5c8670f142d80"
+                    "shasum": "2fb900f88c170d4bf10cffd3d60d4f325530944a"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1054,6 +1068,7 @@
                 },
                 "time": "2020-05-14T15:28:49+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1083,7 +1098,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-e4a164badb324edf89b47c94aba64a7117c86210-zip-143c7e.tar",
                     "reference": "e4a164badb324edf89b47c94aba64a7117c86210",
-                    "shasum": "57422d3f15d959b68ea4c726ad2ffa0f8bc25b77"
+                    "shasum": "c60b7ef08052f7d2c127483d8b6ff9c97f7360f3"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1096,6 +1111,7 @@
                 },
                 "time": "2020-06-07T13:47:15+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1125,7 +1141,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-79fbc1cb8e0c45d254179ab127a6c0659de523ef-zip-1dccf0.tar",
                     "reference": "79fbc1cb8e0c45d254179ab127a6c0659de523ef",
-                    "shasum": "8242dad0c47a3c9f1367e7f561b796b317438a6e"
+                    "shasum": "8aea1faddbaa1e3f910dabd312653ce7e0405ac5"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1138,6 +1154,7 @@
                 },
                 "time": "2020-06-08T11:11:58+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1167,7 +1184,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-a6be3d019b7714acabd0869ff492d896c1fd999e-zip-415fa8.tar",
                     "reference": "a6be3d019b7714acabd0869ff492d896c1fd999e",
-                    "shasum": "bf0818aa88d2cfc4cc47fbca5e8d0e464c2ee82b"
+                    "shasum": "7c03b6831bb317964680b66add421388f32b6e28"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1180,6 +1197,7 @@
                 },
                 "time": "2020-06-08T23:27:16+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1209,7 +1227,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-88f24a3b1b6aed057584957d5a1011f65345ca80-zip-5d0ef5.tar",
                     "reference": "88f24a3b1b6aed057584957d5a1011f65345ca80",
-                    "shasum": "1d5718ca6c9e9b9eecc5da8cff85e58fefb06d99"
+                    "shasum": "255e754e03888f66b5f1274f97cb7759494b075c"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1217,6 +1235,7 @@
                 },
                 "time": "2020-06-22T18:57:47+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1246,7 +1265,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-c034470b91e48179a0504815b8a9882e5ba57c20-zip-42cf4d.tar",
                     "reference": "c034470b91e48179a0504815b8a9882e5ba57c20",
-                    "shasum": "737c8de3a781319dd03bf6fd3c5072d4ec94babc"
+                    "shasum": "91780c121ff1d6b6a26409c96b756a874983cb64"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1254,6 +1273,7 @@
                 },
                 "time": "2020-06-22T21:27:28+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1283,7 +1303,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-61ac511c6935e85f8a6d2da6fc7b36c7f0c844fc-zip-df3f35.tar",
                     "reference": "61ac511c6935e85f8a6d2da6fc7b36c7f0c844fc",
-                    "shasum": "217ff74d2638462f8b43c8cdca6896814e66730d"
+                    "shasum": "639d24356e70ea45f439e9cabd40b459c39d5e57"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1291,6 +1311,7 @@
                 },
                 "time": "2020-07-02T12:31:47+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1320,7 +1341,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-5cf61d3c8000dd56d1659b2c05930b2f1f23c13a-zip-7bb8cf.tar",
                     "reference": "5cf61d3c8000dd56d1659b2c05930b2f1f23c13a",
-                    "shasum": "6606c7b2366bc78386847af78475f841b0d58fbf"
+                    "shasum": "0b48d9ebdebec8de0efc8766ec436d936fcfa27a"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1328,6 +1349,7 @@
                 },
                 "time": "2020-07-02T17:46:57+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1357,7 +1379,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-ddecb24e20a83f9ccf6183c0975239df625e4502-zip-e27bcf.tar",
                     "reference": "ddecb24e20a83f9ccf6183c0975239df625e4502",
-                    "shasum": "fa0cfa13e41e982915a05f391c0535e711fda57c"
+                    "shasum": "9bec3f741538ba542f5c1c019e6e699e51f5b06c"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1365,6 +1387,7 @@
                 },
                 "time": "2020-07-03T20:51:47+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1394,7 +1417,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-45886360c6f08a8224d8a5b0c719b92668530b6d-zip-f69123.tar",
                     "reference": "45886360c6f08a8224d8a5b0c719b92668530b6d",
-                    "shasum": "3816e13d4a1a2801101556aa5586b3006ad78946"
+                    "shasum": "bb36fd6978967ba2fbe3fcabca848fee686dee36"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1402,6 +1425,7 @@
                 },
                 "time": "2020-07-03T21:24:47+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1431,7 +1455,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-52f06d38098ea149cc2d2d16df72af94dc75f045-zip-3762c9.tar",
                     "reference": "52f06d38098ea149cc2d2d16df72af94dc75f045",
-                    "shasum": "500728ae7557384ff9c3dcdd93b2edac620edd20"
+                    "shasum": "0ba1377a0814004d0475795140b720b01e688bc2"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1439,6 +1463,7 @@
                 },
                 "time": "2020-07-03T21:41:27+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1468,7 +1493,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-3c2c0534ca0cc56eb37c62ea7e3cb0fa4ee0514e-zip-2de199.tar",
                     "reference": "3c2c0534ca0cc56eb37c62ea7e3cb0fa4ee0514e",
-                    "shasum": "fd301feb2ad31b385cbc1f71914615fe99ab88b1"
+                    "shasum": "cb9658e1fe13367f512bd891a409602b85e729d3"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1476,6 +1501,7 @@
                 },
                 "time": "2020-07-08T16:53:59+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1505,7 +1531,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-169efcb13c580e4d01ccea9211f8a0b8b8e488f0-zip-7cd693.tar",
                     "reference": "169efcb13c580e4d01ccea9211f8a0b8b8e488f0",
-                    "shasum": "fcc92e7979a230f993e7ee5ec9ec178bd4e32cdc"
+                    "shasum": "9a5baa9dd4821e530ba0b58daf90920808a48998"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1513,6 +1539,7 @@
                 },
                 "time": "2020-07-09T23:31:46+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1542,7 +1569,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f46644297c4439e95e05bf9d7445345300f69db3-zip-2043c9.tar",
                     "reference": "f46644297c4439e95e05bf9d7445345300f69db3",
-                    "shasum": "06ed7e7219cc3b832df9168fbd042ce44584156b"
+                    "shasum": "a85f7a624a0c1e7a4f8f6142a3d77f29f7ba7b54"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1550,6 +1577,7 @@
                 },
                 "time": "2020-07-14T14:45:09+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1579,7 +1607,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-a0b395a98d89aa8b43fca6b08ec18e240878891a-zip-935465.tar",
                     "reference": "a0b395a98d89aa8b43fca6b08ec18e240878891a",
-                    "shasum": "26e7843ee9362e8f7c100a43aaae9dbf04cc8bde"
+                    "shasum": "d509b8ddc3d497377d911ab029b0a180f0d7f828"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1587,6 +1615,7 @@
                 },
                 "time": "2020-07-14T20:12:40+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1616,7 +1645,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-57fa77722d0efb6f6d693e6b266963b175fd80d2-zip-68a36f.tar",
                     "reference": "57fa77722d0efb6f6d693e6b266963b175fd80d2",
-                    "shasum": "cf1dab882cdb4f680ef829682ae1a5f10d7fb98f"
+                    "shasum": "19c732f253b8b7aa609fc94c42707c29cf400b6e"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1624,6 +1653,7 @@
                 },
                 "time": "2020-07-18T11:32:24+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1653,7 +1683,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-5854a6cf4c8181cce4105c918bed069be334cb18-zip-b0026d.tar",
                     "reference": "5854a6cf4c8181cce4105c918bed069be334cb18",
-                    "shasum": "2cf26c28934b89f78798462e36d185731ea7d218"
+                    "shasum": "f7db0e23548860c9ce7fe1c597fcd584529a80b6"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1661,6 +1691,7 @@
                 },
                 "time": "2020-07-18T21:18:25+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1690,7 +1721,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-b900b87a675352326ce4c0daa6e10a38fcf489dc-zip-e90f99.tar",
                     "reference": "b900b87a675352326ce4c0daa6e10a38fcf489dc",
-                    "shasum": "c9a84f74d70bfb0f21462730482f725a3f29b1fb"
+                    "shasum": "bf2e109677ef3f067298747baa585cdd3749ac4b"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1698,6 +1729,7 @@
                 },
                 "time": "2020-07-22T23:14:24+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1727,7 +1759,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-428ce0c2276abdcb6972c5b083fc38c913ec7261-zip-082dd9.tar",
                     "reference": "428ce0c2276abdcb6972c5b083fc38c913ec7261",
-                    "shasum": "8cbae055da320b205b0fe12d777086fc39fc4cfa"
+                    "shasum": "a1bc9875533dca23709da6946078274c747dbe6a"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1735,6 +1767,7 @@
                 },
                 "time": "2020-07-22T23:33:36+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1764,7 +1797,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-16fb41a99d4938a74b16997ba4c6fca0b4ce48ec-zip-5f27a7.tar",
                     "reference": "16fb41a99d4938a74b16997ba4c6fca0b4ce48ec",
-                    "shasum": "81b1f8470356fa4f8ca701e6d25516cdb4f04bae"
+                    "shasum": "6699511953b75f6d6cb9ed92f2c79d04331b73b5"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1772,6 +1805,7 @@
                 },
                 "time": "2020-07-24T19:39:46+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1801,7 +1835,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-6ff71bae05e0a2248d5f0a1ebcb81791b75a75e3-zip-9bf419.tar",
                     "reference": "6ff71bae05e0a2248d5f0a1ebcb81791b75a75e3",
-                    "shasum": "c43d234f93e61cc7d114b0cbe274041815b3a1d0"
+                    "shasum": "62f6f5c3935630a8022469764c456fb590a7cb31"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1809,6 +1843,7 @@
                 },
                 "time": "2020-08-15T19:45:06+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1838,7 +1873,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-0d191873fc6d1b7f195e345fccb26f9cb35e7ef1-zip-d6e5d8.tar",
                     "reference": "0d191873fc6d1b7f195e345fccb26f9cb35e7ef1",
-                    "shasum": "b2c3abb46051251f5777d60fb9d6089f3a9761dd"
+                    "shasum": "a6dfe0378e5f18ea3043152911ee8d65dfb7e1c1"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -1846,6 +1881,7 @@
                 },
                 "time": "2020-08-15T20:48:49+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1875,7 +1911,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f66585dc6a650ad573f8c9c49f2cba712bb42a92-zip-523f95.tar",
                     "reference": "f66585dc6a650ad573f8c9c49f2cba712bb42a92",
-                    "shasum": "0401b311c9eb441c36594ea1d4da083e875176f1"
+                    "shasum": "d86c042e5da8f1a37c7c31b0511e06b5d92fc63c"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -1890,6 +1926,7 @@
                 },
                 "time": "2020-09-12T15:16:45+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1919,7 +1956,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-71c62d35bda7f1360d21c5ef4dfb3e3f895663b7-zip-79baa3.tar",
                     "reference": "71c62d35bda7f1360d21c5ef4dfb3e3f895663b7",
-                    "shasum": "75f5a8bebd8faabb6cdfdb4799b83cc0d94ea253"
+                    "shasum": "34e29410ea73d486808ef901953def2656bff191"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -1934,6 +1971,7 @@
                 },
                 "time": "2020-09-22T19:23:44+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1963,7 +2001,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-70e626c9491454015ce34a636630e33946736e49-zip-a4a079.tar",
                     "reference": "70e626c9491454015ce34a636630e33946736e49",
-                    "shasum": "a0294b1295ab2673d44ea9228a010c724d62ac8e"
+                    "shasum": "72aed09d565b383033ccad76d7108b4143c5783f"
                 },
                 "require": {
                     "mustache/mustache": "~2.5",
@@ -1978,6 +2016,7 @@
                 },
                 "time": "2020-09-23T12:26:38+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2007,7 +2046,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-b3a7865b039c3a1ef8ccadef559c5bcb685a08c4-zip-d530ac.tar",
                     "reference": "b3a7865b039c3a1ef8ccadef559c5bcb685a08c4",
-                    "shasum": "6514c6a9ee79a4cbdd74fec1ee6384d61a3c57cd"
+                    "shasum": "a9c38d61556ed44fa128df572d88b782fcf6345d"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -2025,6 +2064,7 @@
                 },
                 "time": "2021-02-12T12:52:21+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2054,7 +2094,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-bb5916f54a9c7433971cb15d11b9b41f433565f4-zip-cac2ff.tar",
                     "reference": "bb5916f54a9c7433971cb15d11b9b41f433565f4",
-                    "shasum": "efc26655e3154d9e5a3aa7116262ed92cf78659b"
+                    "shasum": "562e22a9a45fb133758c109c2ed86b79e43e07a5"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -2070,6 +2110,7 @@
                 },
                 "time": "2021-02-12T17:16:26+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2099,7 +2140,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-79183b460e0ca07fe09178454c28b826bc4d14e4-zip-cd3228.tar",
                     "reference": "79183b460e0ca07fe09178454c28b826bc4d14e4",
-                    "shasum": "6bc9881a9c93d4de6a2f5002bb7f3e1e2d066504"
+                    "shasum": "64caa9e8d3fb734d6c260f7af8d9515c3ba03b27"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -2115,6 +2156,7 @@
                 },
                 "time": "2021-02-12T17:28:22+00:00",
                 "type": "wordpress-plugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2144,7 +2186,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-4e3ce902b9a28d1e82f91617e0f2e4016e9bd072-zip-75b7ab.tar",
                     "reference": "4e3ce902b9a28d1e82f91617e0f2e4016e9bd072",
-                    "shasum": "7b2a9a99b9e4a95156402af068492758aa3c967d"
+                    "shasum": "f1931fb92185f3e30e438d400b2c84ae52e53ff4"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -2164,6 +2206,7 @@
                 },
                 "time": "2021-02-15T18:41:07+00:00",
                 "type": "wordpress-plugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2193,7 +2236,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-6d9172e81fdc94960e97a95d66c0e21efa753337-zip-bbb31b.tar",
                     "reference": "6d9172e81fdc94960e97a95d66c0e21efa753337",
-                    "shasum": "0ce3118caeeba1e97a4fcee9f53f388e0c3612c3"
+                    "shasum": "e9938a9225be390f1f2337f52e2235602f1fac43"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -2213,6 +2256,7 @@
                 },
                 "time": "2021-02-15T20:02:34+00:00",
                 "type": "wordpress-plugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2242,7 +2286,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-0eeedbf562de95c0b9515fce9bffc971e67d3e57-zip-bfe65e.tar",
                     "reference": "0eeedbf562de95c0b9515fce9bffc971e67d3e57",
-                    "shasum": "ef55e6c7c0bd8a643f1da24b835520cfe6427a38"
+                    "shasum": "baaf505ebb34366b5e2b49ad7fadb0586d1f49f4"
                 },
                 "require": {
                     "filp/whoops": "^2.9",
@@ -2293,7 +2337,7 @@
                     "type": "tar",
                     "url": "https://satis.sysal.com.br/dist/sysal/sysal-core/sysal-sysal-core-f6415a7714bf3c4737c265aea3412ef67556656d-zip-a4024b.tar",
                     "reference": "f6415a7714bf3c4737c265aea3412ef67556656d",
-                    "shasum": "f6651d64d50a3d80db9cfcc422554d161699bdea"
+                    "shasum": "43e2c28083f30960d28b83e000d9338df2181307"
                 },
                 "require": {
                     "lucatume/di52": "^2.0",
@@ -2306,6 +2350,7 @@
                 },
                 "time": "2020-04-19T16:04:37+00:00",
                 "type": "wordpress-muplugin",
+                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -2329,12 +2374,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/sysal-core.git",
-                    "reference": "c095097014d22184fab48b27efd845b8194199cc"
+                    "reference": "0eeedbf562de95c0b9515fce9bffc971e67d3e57"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/c095097014d22184fab48b27efd845b8194199cc",
-                    "reference": "c095097014d22184fab48b27efd845b8194199cc",
+                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/0eeedbf562de95c0b9515fce9bffc971e67d3e57",
+                    "reference": "0eeedbf562de95c0b9515fce9bffc971e67d3e57",
                     "shasum": ""
                 },
                 "require": {
@@ -2347,12 +2392,14 @@
                     "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
                     "wpackagist-plugin/anti-spam": "7.2.*",
                     "wpackagist-plugin/cookie-notice": "1.3.*",
+                    "wpackagist-plugin/debug-bar": "1.1.*",
                     "wpackagist-plugin/genesis-blocks": "1.2.*",
                     "wpackagist-plugin/ilab-media-tools": "4.1.*",
                     "wpackagist-plugin/limit-login-attempts-reloaded": "2.15.*",
+                    "wpackagist-plugin/view-admin-as": "1.8.*",
                     "wpackagist-plugin/wps-hide-login": "1.6"
                 },
-                "time": "2021-02-15T17:27:47+00:00",
+                "time": "2021-02-16T12:45:25+00:00",
                 "type": "wordpress-plugin",
                 "autoload": {
                     "psr-4": {
@@ -2366,7 +2413,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysaltech/sysal-core/tree/master",
+                    "source": "https://github.com/sysaltech/sysal-core/tree/1.0.6",
                     "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             }
