@@ -1,6 +1,6 @@
 {
 	"name": "sysal/satis",
-	"homepage": "https://satis.sysal.com.br",
+	"homepage": "https://satis.sysal.tech",
 	"repositories": [
 		{
 			"type": "vcs",
@@ -63,10 +63,5 @@
 			"url": "git@github.com:sysaltech/authority-pro.git"
 		}
 	],
-	"require-all": true,
-	"archive": {
-    	"directory": "dist",
-    	"format": "tar",
-    	"skip-dev": true
-  	}
+	"require-all": true
 }
