@@ -18,7 +18,6 @@
                 },
                 "time": "2020-11-25T17:49:51+00:00",
                 "type": "wordpress-theme",
-                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria C. Dadalt",
@@ -77,7 +76,6 @@
                 },
                 "time": "2020-10-03T21:34:03+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria Cristina Dadalt",
@@ -106,7 +104,6 @@
                 },
                 "time": "2021-01-24T17:20:35+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria Cristina Dadalt",
@@ -195,7 +192,6 @@
                 },
                 "time": "2021-01-05T12:43:22+00:00",
                 "type": "wordpress-theme",
-                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria C. Dadalt",
@@ -314,7 +310,6 @@
                 },
                 "time": "2020-10-03T20:58:30+00:00",
                 "type": "wordpress-theme",
-                "installation-source": "dist",
                 "authors": [
                     {
                         "name": "Maria C. Dadalt",
@@ -535,7 +530,6 @@
                 },
                 "time": "2020-04-19T14:26:55+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -620,7 +614,6 @@
                 },
                 "time": "2020-04-19T15:42:54+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -671,7 +664,6 @@
                 },
                 "time": "2021-02-15T21:16:21+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -716,7 +708,6 @@
                 },
                 "time": "2020-09-29T12:03:31+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -807,7 +798,6 @@
                 },
                 "time": "2020-10-21T19:46:30+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -853,7 +843,6 @@
                 },
                 "time": "2020-10-22T18:02:01+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -896,7 +885,6 @@
                 },
                 "time": "2020-04-26T22:53:32+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -939,7 +927,6 @@
                 },
                 "time": "2020-04-27T16:15:31+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -982,7 +969,6 @@
                 },
                 "time": "2020-04-27T16:35:30+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1025,7 +1011,6 @@
                 },
                 "time": "2020-05-14T14:31:43+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1068,7 +1053,6 @@
                 },
                 "time": "2020-05-14T15:28:49+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1111,7 +1095,6 @@
                 },
                 "time": "2020-06-07T13:47:15+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1154,7 +1137,6 @@
                 },
                 "time": "2020-06-08T11:11:58+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1197,7 +1179,6 @@
                 },
                 "time": "2020-06-08T23:27:16+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1235,7 +1216,6 @@
                 },
                 "time": "2020-06-22T18:57:47+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1273,7 +1253,6 @@
                 },
                 "time": "2020-06-22T21:27:28+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1311,7 +1290,6 @@
                 },
                 "time": "2020-07-02T12:31:47+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1349,7 +1327,6 @@
                 },
                 "time": "2020-07-02T17:46:57+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1387,7 +1364,6 @@
                 },
                 "time": "2020-07-03T20:51:47+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1425,7 +1401,6 @@
                 },
                 "time": "2020-07-03T21:24:47+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1463,7 +1438,6 @@
                 },
                 "time": "2020-07-03T21:41:27+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1501,7 +1475,6 @@
                 },
                 "time": "2020-07-08T16:53:59+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1539,7 +1512,6 @@
                 },
                 "time": "2020-07-09T23:31:46+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1577,7 +1549,6 @@
                 },
                 "time": "2020-07-14T14:45:09+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1615,7 +1586,6 @@
                 },
                 "time": "2020-07-14T20:12:40+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1653,7 +1623,6 @@
                 },
                 "time": "2020-07-18T11:32:24+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1691,7 +1660,6 @@
                 },
                 "time": "2020-07-18T21:18:25+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1729,7 +1697,6 @@
                 },
                 "time": "2020-07-22T23:14:24+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1767,7 +1734,6 @@
                 },
                 "time": "2020-07-22T23:33:36+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1805,7 +1771,6 @@
                 },
                 "time": "2020-07-24T19:39:46+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -1843,7 +1808,6 @@
                 },
                 "time": "2020-08-15T19:45:06+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1881,7 +1845,6 @@
                 },
                 "time": "2020-08-15T20:48:49+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1926,7 +1889,6 @@
                 },
                 "time": "2020-09-12T15:16:45+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -1971,7 +1933,6 @@
                 },
                 "time": "2020-09-22T19:23:44+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2016,7 +1977,6 @@
                 },
                 "time": "2020-09-23T12:26:38+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2064,7 +2024,6 @@
                 },
                 "time": "2021-02-12T12:52:21+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2110,7 +2069,6 @@
                 },
                 "time": "2021-02-12T17:16:26+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2156,7 +2114,6 @@
                 },
                 "time": "2021-02-12T17:28:22+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2206,7 +2163,6 @@
                 },
                 "time": "2021-02-15T18:41:07+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2256,7 +2212,6 @@
                 },
                 "time": "2021-02-15T20:02:34+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2307,7 +2262,6 @@
                 },
                 "time": "2021-02-16T12:45:25+00:00",
                 "type": "wordpress-plugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src_be/"
@@ -2350,7 +2304,6 @@
                 },
                 "time": "2020-04-19T16:04:37+00:00",
                 "type": "wordpress-muplugin",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-4": {
                         "Sysal\\Core\\": "src/"
@@ -2374,12 +2327,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/sysal-core.git",
-                    "reference": "0eeedbf562de95c0b9515fce9bffc971e67d3e57"
+                    "reference": "e2177bb26aca029b5006f3481d9e0756f2ce6ca3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/0eeedbf562de95c0b9515fce9bffc971e67d3e57",
-                    "reference": "0eeedbf562de95c0b9515fce9bffc971e67d3e57",
+                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/e2177bb26aca029b5006f3481d9e0756f2ce6ca3",
+                    "reference": "e2177bb26aca029b5006f3481d9e0756f2ce6ca3",
                     "shasum": ""
                 },
                 "require": {
@@ -2387,23 +2340,30 @@
                     "kint-php/kint": "^3.3",
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*",
+                    "sendgrid/sendgrid": "~7",
                     "sysal/advanced-custom-fields-pro": "5.9.* || dev-main",
                     "sysal/genesis": "3.3.* || dev-main",
                     "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
                     "wpackagist-plugin/anti-spam": "7.2.*",
                     "wpackagist-plugin/cookie-notice": "1.3.*",
+                    "wpackagist-plugin/crop-thumbnails": "1.3.*",
                     "wpackagist-plugin/debug-bar": "1.1.*",
                     "wpackagist-plugin/genesis-blocks": "1.2.*",
-                    "wpackagist-plugin/ilab-media-tools": "4.1.*",
+                    "wpackagist-plugin/google-site-kit": "1.27.*",
+                    "wpackagist-plugin/health-check": "1.4.*",
                     "wpackagist-plugin/limit-login-attempts-reloaded": "2.15.*",
+                    "wpackagist-plugin/regenerate-thumbnails": "3.1.*",
+                    "wpackagist-plugin/seo-by-rank-math": "1.0.*",
+                    "wpackagist-plugin/svg-support": "2.3.*",
                     "wpackagist-plugin/view-admin-as": "1.8.*",
+                    "wpackagist-plugin/wordpress-importer": "0.7",
                     "wpackagist-plugin/wps-hide-login": "1.6"
                 },
-                "time": "2021-02-16T12:45:25+00:00",
+                "time": "2021-03-13T12:02:05+00:00",
                 "type": "wordpress-plugin",
                 "autoload": {
                     "psr-4": {
-                        "Sysal\\Core\\": "src_be/"
+                        "Sysal\\Core\\": "src/"
                     }
                 },
                 "authors": [
@@ -2413,7 +2373,7 @@
                     }
                 ],
                 "support": {
-                    "source": "https://github.com/sysaltech/sysal-core/tree/1.0.6",
+                    "source": "https://github.com/sysaltech/sysal-core/tree/master",
                     "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             }
