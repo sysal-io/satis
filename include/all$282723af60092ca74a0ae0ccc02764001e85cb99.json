@@ -2278,48 +2278,6 @@
                     "issues": "https://github.com/sysaltech/sysal-core/issues"
                 }
             },
-            "2.0.0": {
-                "name": "sysal/sysal-core",
-                "version": "2.0.0",
-                "version_normalized": "2.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:sysaltech/sysal-core.git",
-                    "reference": "f6415a7714bf3c4737c265aea3412ef67556656d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/f6415a7714bf3c4737c265aea3412ef67556656d",
-                    "reference": "f6415a7714bf3c4737c265aea3412ef67556656d",
-                    "shasum": ""
-                },
-                "require": {
-                    "lucatume/di52": "^2.0",
-                    "mustache/mustache": "~2.5"
-                },
-                "require-dev": {
-                    "brain/monkey": "2.*",
-                    "filp/whoops": "^2.7",
-                    "phpunit/phpunit": "^8"
-                },
-                "time": "2020-04-19T16:04:37+00:00",
-                "type": "wordpress-muplugin",
-                "autoload": {
-                    "psr-4": {
-                        "Sysal\\Core\\": "src/"
-                    }
-                },
-                "authors": [
-                    {
-                        "name": "Sysal Webapps",
-                        "email": "md@sysal.com.br"
-                    }
-                ],
-                "support": {
-                    "source": "https://github.com/sysaltech/sysal-core/tree/2.0.0",
-                    "issues": "https://github.com/sysaltech/sysal-core/issues"
-                }
-            },
             "dev-master": {
                 "name": "sysal/sysal-core",
                 "version": "dev-master",
@@ -2327,12 +2285,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/sysal-core.git",
-                    "reference": "d67b3aee40a8cf417c3ff0b2b415dcfc4636dead"
+                    "reference": "567cc35dd8ab5530ed86e77c7f543f65e31d1c0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/d67b3aee40a8cf417c3ff0b2b415dcfc4636dead",
-                    "reference": "d67b3aee40a8cf417c3ff0b2b415dcfc4636dead",
+                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/567cc35dd8ab5530ed86e77c7f543f65e31d1c0c",
+                    "reference": "567cc35dd8ab5530ed86e77c7f543f65e31d1c0c",
                     "shasum": ""
                 },
                 "require": {
@@ -2359,7 +2317,7 @@
                     "wpackagist-plugin/wordpress-importer": "0.7",
                     "wpackagist-plugin/wps-hide-login": "^1.6"
                 },
-                "time": "2021-03-13T17:36:43+00:00",
+                "time": "2021-04-10T14:09:01+00:00",
                 "type": "wordpress-plugin",
                 "autoload": {
                     "psr-4": {
