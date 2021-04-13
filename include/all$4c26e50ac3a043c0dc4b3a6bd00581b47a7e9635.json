@@ -2285,12 +2285,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/sysal-core.git",
-                    "reference": "567cc35dd8ab5530ed86e77c7f543f65e31d1c0c"
+                    "reference": "5141f9c970d711ccbcdcfe34f9a2973234f5f3b5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/567cc35dd8ab5530ed86e77c7f543f65e31d1c0c",
-                    "reference": "567cc35dd8ab5530ed86e77c7f543f65e31d1c0c",
+                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/5141f9c970d711ccbcdcfe34f9a2973234f5f3b5",
+                    "reference": "5141f9c970d711ccbcdcfe34f9a2973234f5f3b5",
                     "shasum": ""
                 },
                 "require": {
@@ -2317,7 +2317,7 @@
                     "wpackagist-plugin/wordpress-importer": "0.7",
                     "wpackagist-plugin/wps-hide-login": "^1.6"
                 },
-                "time": "2021-04-10T14:09:01+00:00",
+                "time": "2021-04-13T11:47:49+00:00",
                 "type": "wordpress-plugin",
                 "autoload": {
                     "psr-4": {
