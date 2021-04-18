@@ -2285,12 +2285,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/sysal-core.git",
-                    "reference": "5141f9c970d711ccbcdcfe34f9a2973234f5f3b5"
+                    "reference": "65d1068c82b7dc3cd619a6cc82df9ef32d6421cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/5141f9c970d711ccbcdcfe34f9a2973234f5f3b5",
-                    "reference": "5141f9c970d711ccbcdcfe34f9a2973234f5f3b5",
+                    "url": "https://api.github.com/repos/sysaltech/sysal-core/zipball/65d1068c82b7dc3cd619a6cc82df9ef32d6421cf",
+                    "reference": "65d1068c82b7dc3cd619a6cc82df9ef32d6421cf",
                     "shasum": ""
                 },
                 "require": {
@@ -2298,7 +2298,6 @@
                     "kint-php/kint": "^3.3",
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*",
-                    "sendgrid/sendgrid": "~7",
                     "sysal/advanced-custom-fields-pro": "dev-main",
                     "sysal/genesis": "dev-main",
                     "wpackagist-plugin/advanced-custom-fields-font-awesome": "3.1.*",
@@ -2314,10 +2313,10 @@
                     "wpackagist-plugin/seo-by-rank-math": "1.0.*",
                     "wpackagist-plugin/svg-support": "2.3.*",
                     "wpackagist-plugin/view-admin-as": "1.8.*",
-                    "wpackagist-plugin/wordpress-importer": "0.7",
-                    "wpackagist-plugin/wps-hide-login": "^1.6"
+                    "wpackagist-plugin/wordpress-importer": "0.7.*",
+                    "wpackagist-plugin/wps-hide-login": "1.8.*"
                 },
-                "time": "2021-04-13T11:47:49+00:00",
+                "time": "2021-04-18T21:20:26+00:00",
                 "type": "wordpress-plugin",
                 "autoload": {
                     "psr-4": {
