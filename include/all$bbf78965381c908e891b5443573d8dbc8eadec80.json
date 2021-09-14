@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "sysaltech/wpillar-plugin-core": {
+            "dev-main": {
+                "name": "sysaltech/wpillar-plugin-core",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:sysaltech/wpillar-plugin-core.git",
+                    "reference": "67f22df33b26f62f7814bcfb661bdfbf60be6145"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sysaltech/wpillar-plugin-core/zipball/67f22df33b26f62f7814bcfb661bdfbf60be6145",
+                    "reference": "67f22df33b26f62f7814bcfb661bdfbf60be6145",
+                    "shasum": ""
+                },
+                "require": {
+                    "mustache/mustache": "^2.5",
+                    "php-di/php-di": "6.0.*"
+                },
+                "time": "2021-09-14T09:56:10+00:00",
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "WPillar\\Core\\": "src"
+                    }
+                },
+                "description": "WPillar's Core Plugin for customizing Wordpress Projects",
+                "support": {
+                    "source": "https://github.com/sysaltech/wpillar-plugin-core/tree/main",
+                    "issues": "https://github.com/sysaltech/wpillar-plugin-core/issues"
+                }
+            }
+        }
+    }
+}
