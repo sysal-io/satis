@@ -1,5 +1,21 @@
 {
     "packages": {
+        "advanced-custom-fields/advanced-custom-fields-pro": {
+            "5.9.8": {
+                "name": "advanced-custom-fields/advanced-custom-fields-pro",
+                "version": "5.9.8",
+                "version_normalized": "5.9.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%WP_PLUGIN_ACF_KEY}&t={%VERSION}"
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "ffraenz/private-composer-installer": "^5.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
         "sysaltech/wpillar-plugin-core": {
             "dev-main": {
                 "name": "sysaltech/wpillar-plugin-core",
@@ -8,19 +24,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/wpillar-plugin-core.git",
-                    "reference": "67f22df33b26f62f7814bcfb661bdfbf60be6145"
+                    "reference": "a3bbee90903574223b514a87a2f06e6e1bb2fb0f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/wpillar-plugin-core/zipball/67f22df33b26f62f7814bcfb661bdfbf60be6145",
-                    "reference": "67f22df33b26f62f7814bcfb661bdfbf60be6145",
+                    "url": "https://api.github.com/repos/sysaltech/wpillar-plugin-core/zipball/a3bbee90903574223b514a87a2f06e6e1bb2fb0f",
+                    "reference": "a3bbee90903574223b514a87a2f06e6e1bb2fb0f",
                     "shasum": ""
                 },
                 "require": {
+                    "advanced-custom-fields/advanced-custom-fields-pro": ">=5.9",
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2021-09-14T09:56:10+00:00",
+                "time": "2021-09-14T13:22:14+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
