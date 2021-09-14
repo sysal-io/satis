@@ -1,10 +1,10 @@
 {
     "packages": {
         "advanced-custom-fields/advanced-custom-fields-pro": {
-            "5.9.8": {
+            "5.10.2": {
                 "name": "advanced-custom-fields/advanced-custom-fields-pro",
-                "version": "5.9.8",
-                "version_normalized": "5.9.8.0",
+                "version": "5.10.2",
+                "version_normalized": "5.10.2.0",
                 "dist": {
                     "type": "zip",
                     "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%WP_PLUGIN_ACF_KEY}&t={%VERSION}"
