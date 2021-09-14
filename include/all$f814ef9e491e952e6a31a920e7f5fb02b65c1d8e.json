@@ -24,20 +24,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:sysaltech/wpillar-plugin-core.git",
-                    "reference": "a3bbee90903574223b514a87a2f06e6e1bb2fb0f"
+                    "reference": "139393490bb9a50d56258c6dc6fc98e5e1695950"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/sysaltech/wpillar-plugin-core/zipball/a3bbee90903574223b514a87a2f06e6e1bb2fb0f",
-                    "reference": "a3bbee90903574223b514a87a2f06e6e1bb2fb0f",
+                    "url": "https://api.github.com/repos/sysaltech/wpillar-plugin-core/zipball/139393490bb9a50d56258c6dc6fc98e5e1695950",
+                    "reference": "139393490bb9a50d56258c6dc6fc98e5e1695950",
                     "shasum": ""
                 },
                 "require": {
-                    "advanced-custom-fields/advanced-custom-fields-pro": ">=5.9",
+                    "advanced-custom-fields/advanced-custom-fields-pro": ">=5.10",
                     "mustache/mustache": "^2.5",
                     "php-di/php-di": "6.0.*"
                 },
-                "time": "2021-09-14T13:22:14+00:00",
+                "time": "2021-09-14T13:30:55+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
